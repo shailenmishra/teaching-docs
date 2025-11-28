@@ -42,4 +42,11 @@ search:
   focus_shortcut_key: 'k'
 
 
+callouts:
+  important:
+    title: Important
+    color: purple
+  note:
+    title: Note
+    color: green
 
