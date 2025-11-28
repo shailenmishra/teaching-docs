@@ -1,6 +1,7 @@
 ---
 title: ENGL 1J
 nav_order: 2
+layout: default
 ---
 
 # ENGL 1J Weekly Schedule
