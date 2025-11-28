@@ -71,8 +71,8 @@ Course expectations and policy details are shared below as an FAQ. If any questi
 9.  What if I accidentally [submit the wrong file](#submit-the-wrong-file) to Moodle and realize it later?
 10. What's the course policy on [plagiarism and academic integrity](#plagiarism-and-academic-integrity)?
 11. What's your policy on the [use of AI](#use-of-ai) in this course?
-12. As a student with a disability what sort of [#accommodation policy](#accommodation-policy) can I expect?
-13. Is this course covered under [#sexual misconduct & Title IX](#sexual-misconduct--title-ix) protection?
+12. As a student with a disability what sort of [accommodation policy](#accommodation-policy) can I expect?
+13. Is this course covered under [sexual misconduct & Title IX](#sexual-misconduct--title-ix) protection?
 14. What [other campus resources](#other-campus-resources) are available to me to succeed in this course and outside of it?
 
 {: .important }
@@ -95,7 +95,7 @@ The following grading scale will be used for writing assignments as well as fina
 - 77-79 = C+; 73-76 = C; 70-72 = C-;  
 - 67-69 = D+; 63-66 = D; 60-62 = D-; 59-0 = F
 
-When rounding up your final grade, I will follow the convention described on this [web page](http://www.amsi.org.au/ESA_Resources/Q3450/Q3450_2.html). For example, 92.4 will get rounded to 92 but 92.5 will get rounded to 93.]
+When rounding up your final grade, I will follow the practice described on the [website]((http://www.amsi.org.au/ESA_Resources/Q3450/Q3450_2.html)) of amsi.org, which stands for Australian Mathematical Sciences Institute. For example, 92.4 will get rounded to 92 but 92.5 will get rounded to 93.
 
 ### Reflection Assignments
 
