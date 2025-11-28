@@ -6,8 +6,17 @@ layout: default
 ---
 
 # ENGL 1J Weekly Schedule
+{: .no_toc }
 
 Below you will find the weekly breakdown of scheduled readings and assignments. This schedule might change with prior notice. The abbreviation *OTW* refers to the textbook *Out of the Woods*.
+
+<details markdown="block">
+  <summary>
+    Table of Contents
+  </summary>
+- TOC
+{:toc}
+</details>
 
 ## Week 1 
 
