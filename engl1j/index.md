@@ -1,6 +1,5 @@
 ---
 title: ENGL 1J Schedule
-nav_order: 1
 ---
 
 # ENGL 1J Weekly Schedule
