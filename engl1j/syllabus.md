@@ -14,8 +14,16 @@ Here are some preliminary details about the course:
 - Student hours: T/Th 8:55-9:55 am, and by appointment; Parrish Hall W227; if you plan to stop by during the student hour, I would appreciate an email notification in advance.
 - Email: [smishra1@swarthmore.edu](mailto:smishra1@swarthmore.edu)
 
-> [!IMPORTANT]  
+{: .important }
 > Course communications will primarily happen via your college email id. Make sure to check it regularly.
+
+<details markdown="block">
+  <summary>
+    Table of Contents
+  </summary>
+- TOC
+{:toc}
+</details>
 
 ## Course Description
 
@@ -26,9 +34,7 @@ The theme of the course will be environmental awareness and environmental rhetor
 There will be three projects that you will complete in this course:
 
 1.  You will conduct rhetorical analysis of a persuasion campaign employed by an organization or entity dedicated to climate action (for example analyzing persuasion strategies adopted by the Office of Sustainability at Swarthmore in their public-facing communication genres); in this assignment you will use the rhetorical concepts you have learned and readings up to Week 5 to conduct rhetorical analysis.
-
 2.  You will do a poster presentation to the Swarthmore community on an ecological issue of your choice after completing a guided tour of the Crum Woods and Scott Arboretum. You will also present an argument as part of the presentation, you will invite the community's feedback on the topic, and you will write a final reflection paper on what you learned in terms of the rhetorical engagement your topic demands.
-
 3.  You will write a research essay on a topic that stretches the norms and expectations of academic writing (by that I mean the Western standards of academic rhetoric). This is a more open-ended project, meaning you can write on topics not limited to environmentalism. Nevertheless, the rhetorical strategies you employ to complicate and problematize the genre of academic research essay should be informed by embodied rhetoric, a concept that you will learn through our in-class readings and discussions, and out-of-class activities.
 
 ## Schedule
@@ -38,7 +44,6 @@ There will be three projects that you will complete in this course:
 ##  Texts
 
 - *Out of the Woods: Seeing Nature in the Everyday* by Julia Corbett, First Edition, ISBN 978-1943859887. This is a required text and students are expected to purchase a copy.
-
 - Other readings in the course will come from scholarly journals, book chapters, and web sources, and they will be made available to you in html or pdf format.
 
 ## Grade Distribution
@@ -46,9 +51,7 @@ There will be three projects that you will complete in this course:
 Total course grade (100%) will be divided into several components:
 
 1.  Writing projects (three in total): 75%
-
 2.  Class participation & discussion posts: 15%
-
 3.  Reflection assignments: 10%
 
 One note on the grade distribution: commitment to the writing process will play a crucial role in this course and it is factored in the different stages involved in each writing assignment. It's important that you complete all the components of each assignment, and pay attention to and document how your work evolves in stages.
@@ -57,9 +60,9 @@ One note on the grade distribution: commitment to the writing process will play 
 
 Course expectations and policy details are shared below as an FAQ. If any question/concern is not answered then please use the comment feature to leave questions for me. For any personal concerns, email me.
 
-1.  Can I get more details about the major [[#Writing Assignments]]?
-2.  What [[#Grade Scale]] do you use?
-3.  What constitutes the [[#Reflection Assignments]]?
+1.  Can I get more details about the major [writing assignments](#writing-assignments)?
+2.  What [grade scale](#grade-scale) do you use?
+3.  What constitutes the [reflection assignments](#reflection-assignments)?
 4.  Can you share more details about [[#Class Participation & Discussion Posts]]?
 5.  Can I contact the Writing Center for [[#Extra Writing Help]]?
 6.  What are the [[#Learning Outcomes]] of this course?
