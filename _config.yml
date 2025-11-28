@@ -1,4 +1,4 @@
-title: Prof. Shailen Mishra
+title: Prof. Mishra's Courses
 description: Course materials and other instructional details are found here.
 theme: just-the-docs
 
@@ -7,8 +7,6 @@ url: https://shailenmishra.com/teaching-docs
 aux_links:
   SWAT Moodle: https://moodle.swarthmore.edu/
 
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/webbed.png"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/favicon.ico"
