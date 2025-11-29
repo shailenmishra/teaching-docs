@@ -45,8 +45,8 @@ search:
 callouts:
   important:
     title: Important
-    color: purple
-  note:
-    title: Note
     color: green
+  homework:
+    title: Homework
+    color: purple
 
