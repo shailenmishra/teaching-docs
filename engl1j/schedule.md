@@ -26,7 +26,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of first chapter "The Rhetorical Tradition" in TEGR
 - Discussion of the newsletter "[A chemical disaster occurred almost every day in 2023](https://docs.google.com/document/d/1uWNA7UIg89yi9c1sD2HGKNrvmAwrwI7sTP7KRfAMvI4/edit?usp=drive_link)"
 
-> Homework: Complete the assigned reading for the next class
+{: .homework }
+> Complete the assigned reading for the next class
 
 ### Jan 22
 
@@ -34,7 +35,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of chapter "Rhetoric and the Audience" (page 12-18) in *TEGR*
 - Discussion of the [speech by Kathy Jetnil-Kijiner at the 2014 UN Climate Summit](https://youtu.be/mc_IgE7TBSY). Please read this [companion piece](https://www.kathyjetnilkijiner.com/three-weeks-after-the-un-climate-summit-or-coming-home-to-a-climate-reality/) alongside watching the video
 
-> Homework: 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by Jan 26 in Moodle titled "Your Thoughts on Persuasion"
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by Jan 26 in Moodle titled "Your Thoughts on Persuasion"
 
 ## Week 2
 
@@ -45,14 +47,17 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of the podcast "[Polarized Opinion on Climate Change and Messages that Move Conservatives](https://soundcloud.com/user-735940457-95015381/polarized-opinion-on-climate-change-and-messages-that-move-conservatives)"
 - **In-class reading**: A reading from Swarthmore's Special Collections: "[Ten Pins - Ten Opinions why Women should Vote, circa 1915. Women's Rights Persons, Box: 3. Source: Emily Howland family photographs, SFHL-PA-115. Friends Historical Library of Swarthmore College.](https://drive.google.com/file/d/1vpBAFNhlE7OJA0UJ7IlX-mZ1B4DYeuzK/view?usp=drive_link)"
 
-> Homework: Read the assigned readings for the next class and watch the first 22 minutes of the documentary [Chasing Coral](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj)
+{: .homework }
+> Read the assigned readings for the next class and watch the first 22 minutes of the documentary [Chasing Coral](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj)
 
 ### Jan 29
 
 - Discussion of chapter "Situations and Speech Types" in *TEGR*.
 - Discussion of the example text: watch the first 22 minutes of the Netflix documentary [Chasing Coral](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj)
 - A reading from Swarthmore's Special Collections: "[Living Wage Collection Incites Controversy](https://digitalcollections.tricolib.brynmawr.edu/object/sc251410)" by Christina Temes, Swarthmore Phoenix, 2004-03-25, p. 6 and read corresponding "[Letters to the editor](https://digitalcollections.tricolib.brynmawr.edu/object/sc251411)", Swarthmore Phoenix, 2004-04-01, p. 17
-> Homework: 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by Feb 2 (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)
+
+{: .homework }
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by Feb 2 (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)
 
 ## Week 3
 
@@ -64,13 +69,15 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - [How to do close analysis?](https://twain.lib.virginia.edu/07twain/closereadexs.html)
 - A reading from Swarthmore's Special Collections: "[Race? What the Scientists Say](https://drive.google.com/file/d/1c3sIydIUQYkgZzBHUlGPdphtfJj0RZ72/view)" compiled by Caroline Singer, 1939. PG6: Race Relations.
 
-> Homework: Read the assigned readings for the next class
+{: .homework }
+> Read the assigned readings for the next class
 
 ### Feb 5
 
 - **Out of class activity**: Meet at LibLab (McCabe 104) and librarians Celia Caust-Ellenbogen and Jordan Landes will take us through the special collections examples on persuasion
 
-> Homework: 1) Read the assigned readings for the next class; 2) Submit a paragraph of rhetorical analysis for P1 by Feb 9
+{: .homework }
+> 1) Read the assigned readings for the next class; 2) Submit a paragraph of rhetorical analysis for P1 by Feb 9
 
 ## Week 4
 
@@ -79,7 +86,9 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of [Sample Rhetorical Analysis](https://owl.excelsior.edu/argument-and-critical-thinking/argument-analysis/argument-analysis-sample-rhetorical-analysis/) from the Excelsior Online Writing Lab. The pdf with annotations can be found [at this link](https://owl.excelsior.edu/wp-content/uploads/2018/05/SampleRhetoricalAnalysis.pdf).
 - Revisit the project 1 handout and learn how to perform rhetorical analysis to meet project's expectations
 - Revise your paragraph of rhetorical analysis for P1 and continue your work
-> Homework: 1) Read the assigned readings for the next class; 2) Peruse and familiarize yourself with [different writing/communication genres](https://drive.google.com/drive/folders/15Lf5z1LWarVTkGtyBVvrDC3eyCnQoM31?usp=share_link) used by Swarthmore's Office of Sustainability and bring questions to class for guest speaker
+
+{: .homework }
+> 1) Read the assigned readings for the next class; 2) Peruse and familiarize yourself with [different writing/communication genres](https://drive.google.com/drive/folders/15Lf5z1LWarVTkGtyBVvrDC3eyCnQoM31?usp=share_link) used by Swarthmore's Office of Sustainability and bring questions to class for guest speaker
 
 ### Feb 12
 
@@ -87,7 +96,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of chapter "Style" in *TEGR*
 - Discussion of the example text: "[SPAM's carbon footprint](https://poets.org/poem/spams-carbon-footprint)" by Craig Santos Perez and "[Murmuration](https://drive.google.com/file/d/1hvw6UJVKc81c9w53dqZBLAJOUzj4ZMlv/view?usp=sharing)" and "[We Are Bodies In Bodies We Are Stars](https://drive.google.com/file/d/1pKatElL_jOOgL0hHN3SIOs5J-iChLwGq/view?usp=sharing)" by Tamiko Beyer
 
-> Homework: 1) Read the assigned readings for the next class; 2) Submit P1 - Rough Draft by Feb 16
+{: .homework }
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Rough Draft by Feb 16
 
 ## Week 5
 
