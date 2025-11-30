@@ -31,3 +31,10 @@ blockquote.homework a {
 .site-footer {
   color: #716f71;
 }
+
+// Increase the font size for desktop and mobile
+html {
+  scroll-behavior: smooth;
+
+  @include fs-5;
+}
