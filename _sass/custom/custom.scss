@@ -1,0 +1,33 @@
+// Change the color of left border to purple 
+blockquote {
+  border-left: 3px solid #381885;
+}
+
+// Change the font family of caption
+figcaption {
+  font-size: smaller;
+  font-family: monospace;
+}
+
+// Add label style to the due dates in homework box
+blockquote.homework strong {
+  display: inline-block;
+  padding: 0.16em 0.56em;
+  margin-right: 0.5rem;
+  color: #000;
+  vertical-align: middle;
+  background-color: #f7d12e;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+}
+
+// Change the color of links in homework box to pass contrast test
+blockquote.homework a {
+  color: #664bd7;
+}
+
+// Change the color of text in the footer to pass contrast test
+.site-footer {
+  color: #716f71;
+}
