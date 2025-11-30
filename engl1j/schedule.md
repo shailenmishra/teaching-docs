@@ -36,7 +36,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of the [speech by Kathy Jetnil-Kijiner at the 2014 UN Climate Summit](https://youtu.be/mc_IgE7TBSY). Please read this [companion piece](https://www.kathyjetnilkijiner.com/three-weeks-after-the-un-climate-summit-or-coming-home-to-a-climate-reality/) alongside watching the video
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by Jan 26 in Moodle titled "Your Thoughts on Persuasion"
+> 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by **Jan 26** in Moodle titled "Your Thoughts on Persuasion"
 
 ## Week 2
 
@@ -57,7 +57,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - A reading from Swarthmore's Special Collections: "[Living Wage Collection Incites Controversy](https://digitalcollections.tricolib.brynmawr.edu/object/sc251410)" by Christina Temes, Swarthmore Phoenix, 2004-03-25, p. 6 and read corresponding "[Letters to the editor](https://digitalcollections.tricolib.brynmawr.edu/object/sc251411)", Swarthmore Phoenix, 2004-04-01, p. 17
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by Feb 2 (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by **Feb 2** (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)
 
 ## Week 3
 
@@ -77,7 +77,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - **Out of class activity**: Meet at LibLab (McCabe 104) and librarians Celia Caust-Ellenbogen and Jordan Landes will take us through the special collections examples on persuasion
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Submit a paragraph of rhetorical analysis for P1 by Feb 9
+> 1) Read the assigned readings for the next class; 2) Submit a paragraph of rhetorical analysis for P1 by **Feb 9**
 
 ## Week 4
 
@@ -97,7 +97,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of the example text: "[SPAM's carbon footprint](https://poets.org/poem/spams-carbon-footprint)" by Craig Santos Perez and "[Murmuration](https://drive.google.com/file/d/1hvw6UJVKc81c9w53dqZBLAJOUzj4ZMlv/view?usp=sharing)" and "[We Are Bodies In Bodies We Are Stars](https://drive.google.com/file/d/1pKatElL_jOOgL0hHN3SIOs5J-iChLwGq/view?usp=sharing)" by Tamiko Beyer
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Submit P1 - Rough Draft by Feb 16
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Rough Draft by **Feb 16**
 
 ## Week 5
 
@@ -108,7 +108,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of the chapter "Prologue: Culture and Everyday Nature" in *OTW*
 - C4 representatives visit class
 
-> Homework: Listen to the podcast "Urban Coyote: What wildlife in cities can teach us about ourselves" and read the chapter "Living In a Circle of Beating Hearts" in *OTW*
+{: .homework }
+> Listen to the podcast "Urban Coyote: What wildlife in cities can teach us about ourselves" and read the chapter "Living In a Circle of Beating Hearts" in *OTW*
 
 ### Feb 19
 
@@ -116,7 +117,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of the chapter "Living In a Circle of Beating Hearts" in *OTW*
 - Peer-review workshop on P1 - Rough Draft in class. Submit peer feedback to Moodle by Feb 23 midnight.
 
-> Homework: 1) Start revising P1 - Rough Draft; 2) Read the article "[*Shinrin-Yoku*, Forest Bathing](https://japanhouse.illinois.edu/education/insights/shinrin-yoku)"; 3) Listen to "[Finding the Mother Tree: An Interview with Suzanne Simard](https://emergencemagazine.org/interview/finding-the-mother-tree/)"; 4) Read "[The 'Mother Tree' idea is everywhere --- but how much of it is real](https://drive.google.com/file/d/1Hevpgi-sB09-Ex5q91Zs24zXL105bqtv/view?usp=sharing)?"; 5) Read "[Draft: Crum Woods History talk/contextualization](https://docs.google.com/document/d/10iXy7TMYCg4rcRx5eKDN63wsy1LKv8zkJavRYkb4deI/edit)"
+{: .homework }
+> 1) Start revising P1 - Rough Draft; 2) Read the article "[*Shinrin-Yoku*, Forest Bathing](https://japanhouse.illinois.edu/education/insights/shinrin-yoku)"; 3) Listen to "[Finding the Mother Tree: An Interview with Suzanne Simard](https://emergencemagazine.org/interview/finding-the-mother-tree/)"; 4) Read "[The 'Mother Tree' idea is everywhere --- but how much of it is real](https://drive.google.com/file/d/1Hevpgi-sB09-Ex5q91Zs24zXL105bqtv/view?usp=sharing)?"; 5) Read "[Draft: Crum Woods History talk/contextualization](https://docs.google.com/document/d/10iXy7TMYCg4rcRx5eKDN63wsy1LKv8zkJavRYkb4deI/edit)"
 
 
 ## Week 6
@@ -125,7 +127,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 - A walk in the [Crum Woods](https://www.swarthmore.edu/crum-woods-stewardship/visiting-crum-woods) led by Sue MacQueen, Campus Engagement Coordinator at Swarthmore. This will be an out-of-classroom learning day. This will be an immersive learning experience in an outdoor space, so dress appropriately and be prepared to record multi-sensory observations in your notebook/phone.
 
-> Homework: Complete assigned readings for next class
+{: .homework }
+> Complete assigned readings for next class
 
 ### Feb 26
 
@@ -133,7 +136,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - In-class work time for P1 - Rough Draft revision
 - Get questions answered on P1 revision
 
-> Homework: 1) Go through the [Scott Arboretum brochure](https://www.scottarboretum.org/wp-content/uploads/2023/07/IntroTourBrochure-Updated-2022-printer-mark.pdf); 2) Read "[Take a break from your screen and look at plants](https://theconversation.com/take-a-break-from-your-screen-and-look-at-plants-botanizing-is-a-great-way-to-engage-with-life-around-you-210616)"; 3) Read the chapter "The Big Hum" in *OTW*
+{: .homework }
+> 1) Go through the [Scott Arboretum brochure](https://www.scottarboretum.org/wp-content/uploads/2023/07/IntroTourBrochure-Updated-2022-printer-mark.pdf); 2) Read "[Take a break from your screen and look at plants](https://theconversation.com/take-a-break-from-your-screen-and-look-at-plants-botanizing-is-a-great-way-to-engage-with-life-around-you-210616)"; 3) Read the chapter "The Big Hum" in *OTW*
 
 ## Week 7
 
@@ -141,7 +145,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 - A walk in the [Scott Arboretum](https://www.scottarboretum.org/) led by Sue MacQueen, Campus Engagement Coordinator at Swarthmore. This will be an out-of-classroom learning day. This will be an immersive learning experience in an outdoor space, so dress appropriately and be prepared to record multi-sensory observations in your notebook/phone.
 
-> Homework: Complete the assigned readings for the next class
+{: .homework }
+> Complete the assigned readings for the next class
 
 ### Mar 5
 
@@ -150,7 +155,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of the podcast "[Coral reefs: a biological symphony being silenced](https://www.kuow.org/stories/coral-reefs-a-biological-symphony-being-silenced)"
 - Discussion of the chapter "Out of the Woods" in *OTW*
 
-> Homework: 1) Submit P1 - Final Draft by Mar 7 (flexible deadline); 2) Submit a reflection statement after the week's readings and guided tour about how your idea of rhetoric has evolved/expanded/changed, and with the statement submit your P2 - Topic Proposal by Mar 17; 3) Complete the assigned reading for the next class
+{: .homework }
+> 1) Submit P1 - Final Draft by Mar 7 (flexible deadline); 2) Submit a reflection statement after the week's readings and guided tour about how your idea of rhetoric has evolved/expanded/changed, and with the statement submit your P2 - Topic Proposal by Mar 17; 3) Complete the assigned reading for the next class
 
 ## Week 8
 
@@ -172,7 +178,8 @@ SPRING BREAK. NO CLASS.
 - In-class work time to research about your topic idea and tweak your topic idea if necessary
 - Discussion of "Speaking a Shared Language" in *OTW*
 
-> Homework: 1) Continue research on your topic idea and start composing P2- Outline; 2) Read the assigned readings for next class
+{: .homework }
+> 1) Continue research on your topic idea and start composing P2- Outline; 2) Read the assigned readings for next class
 
 ### Mar 19
 
@@ -180,7 +187,8 @@ SPRING BREAK. NO CLASS.
 - Discussion of "[Creating Effective Poster Presentations](https://colinpurrington.com/tips/poster-design/)" and knowing the conference poster presentation genre
 - Adapting the poster genre for P2
 
-> Homework: 1) Submit P2 - Outline by Mar 23; 2) Install Adobe Express before March 25 class. Go to [this link](https://kb.swarthmore.edu/pages/viewpage.action?pageId=26476648) and install Adobe Express & Creative Cloud for free on your personal computer; 3) Bring to next class any multimodal content/artifact (such as an image, audio clip, an object, video, catch phrase) associated with your P2 topic that can act as a "hook" or "catch" to draw the audience to your poster
+{: .homework }
+> 1) Submit P2 - Outline by Mar 23; 2) Install Adobe Express before March 25 class. Go to [this link](https://kb.swarthmore.edu/pages/viewpage.action?pageId=26476648) and install Adobe Express & Creative Cloud for free on your personal computer; 3) Bring to next class any multimodal content/artifact (such as an image, audio clip, an object, video, catch phrase) associated with your P2 topic that can act as a "hook" or "catch" to draw the audience to your poster
 
 ## Week 10
 
@@ -190,7 +198,8 @@ SPRING BREAK. NO CLASS.
 - Start designing your poster
 - Discussion of the chapter "Shut the Door" in *OTW*
 
-> Homework: 1) Continue to work on your poster; 2) Meet with the Speaking Associates to prepare your elevator pitch for the poster session
+{: .homework }
+> 1) Continue to work on your poster; 2) Meet with the Speaking Associates to prepare your elevator pitch for the poster session
 
 ### Mar 26
 
@@ -198,7 +207,8 @@ SPRING BREAK. NO CLASS.
 - Get feedback on your poster and review your poster's multimodal aspects
 - Ask questions and get feedback on your preparation for the elevator speech
 
-> Homework: 1) Prepare for your poster presentation; 2) Meet with the Speaking Associates to prepare your elevator pitch for the poster session
+{: .homework }
+> 1) Prepare for your poster presentation; 2) Meet with the Speaking Associates to prepare your elevator pitch for the poster session
 
 ## Week 11
 
@@ -207,7 +217,8 @@ SPRING BREAK. NO CLASS.
 - Poster Presentation - Venue: Singer Hall Atrium; Time: 10-11am (some food will be provided)
 - You present your topic/argument to the attendees and get feedback from them on how to improve the solution. You will be submitting a post-presentation reflection statement based on your conversations with the attendees.
 
-> Homework: 1) Read the assigned reading for next class
+{: .homework }
+> 1) Read the assigned reading for next class
 
 ### Apr 2
 
@@ -215,7 +226,8 @@ SPRING BREAK. NO CLASS.
 - Discussion of the video "[Striptease to save the trees](https://vimeo.com/3448925)"
 - Discussion of the "[Introduction](https://drive.google.com/file/d/1_NtF6XUhXQXPQ2-sOYfFh3RkihajXhkz/view?usp=drive_link)" of the book *Bodies of Knowledge: Embodied Rhetorics in Theory and Practice*
 
-> Homework: 1) Complete the assigned reading for the next class; 2) Submit P2 - Post-presentation Reflection Statement by Apr 6
+{: .homework }
+> 1) Complete the assigned reading for the next class; 2) Submit P2 - Post-presentation Reflection Statement by Apr 6
 
 ## Week 12
 
@@ -224,14 +236,16 @@ SPRING BREAK. NO CLASS.
 - Discussion of "[Walking with Relatives: Indigenous Bodies of Protest](https://drive.google.com/file/d/1QexX9fkriNmmHoZynZvudb_2mtrXjcR0/view?usp=sharing)"
 - Research and discussion of potential topic ideas for P3
 
-> Homework: Complete the assigned reading for the next class
+{: .homework }
+> Complete the assigned reading for the next class
 
 ### Apr 9
 
 - Discussion of "[A Groove We Can Move To](https://drive.google.com/file/d/1wG4HMnpDZVLhKB1JDFEcN2nHZElYEhF2/view?usp=sharing)"
 - Research and discussion of potential topic ideas for P3
 
-> Homework: 1) Submit P3 - Topic Idea by April 13; 2) Complete the assigned reading for the next class
+{: .homework }
+> 1) Submit P3 - Topic Idea by April 13; 2) Complete the assigned reading for the next class
 
 ## Week 13
 
@@ -241,13 +255,15 @@ SPRING BREAK. NO CLASS.
 - Conduct preliminary research for P3
 - Help with composing a multimodal component and a website through this [Google Tutorial](https://www.youtube.com/watch?v=5BhCVvFWEtE)
 
-> Homework: 1) Submit P3 - Preliminary Research by Apr 16; 2) Start working on P3 - Rough Draft
+{: .homework }
+> 1) Submit P3 - Preliminary Research by Apr 16; 2) Start working on P3 - Rough Draft
 
 ### Apr 16
 
 - NO CLASS (Please note that class is canceled in lieu of the out-of-class participation expected of you at [CRCQL's](https://chesterpaej.org/about/) environmental justice march on XXX)
-- 
-> Homework: 1) Work on P3 - Rough Draft; 2) Complete the assigned reading for the next class; 3) Participate in [CRCQL's](https://chesterpaej.org/about/) environmental justice march on April 20 (more information will be provided and you will be provided with transportation)
+
+{: .homework }
+> 1) Work on P3 - Rough Draft; 2) Complete the assigned reading for the next class; 3) Participate in [CRCQL's](https://chesterpaej.org/about/) environmental justice march on April 20 (more information will be provided and you will be provided with transportation)
 
 ## Week 14
 
@@ -257,13 +273,15 @@ SPRING BREAK. NO CLASS.
 - In-class time to work on P3 - Rough Draft
 - Get help from your instructor and peers and get any questions answered
 
-> Homework: Submit P3 - Rough Draft by Apr 23
+{: .homework }
+> Submit P3 - Rough Draft by Apr 23
 
 ### Apr 23
 
 - No class, rather students will meet with me for individual conferences for 20 minutes to receive feedback on their rough draft. Conference is mandatory for each student and will be held on Apr 25 and 26. Sign-up sheet will be provided in due time.
 
-> Homework: Submit P3 - Peer Feedback by Apr 27
+{: .homework }
+> Submit P3 - Peer Feedback by Apr 27
 
 ## Week 15
 
@@ -273,7 +291,8 @@ SPRING BREAK. NO CLASS.
 - In-class work time to work on your Google Site and P3 Final Draft
 - Introduction to the Final Reflection Assignment
 
-> Homework: Work on P3 Final Draft
+{: .homework }
+> Work on P3 Final Draft
 
 ### Apr 30
 
@@ -281,6 +300,6 @@ SPRING BREAK. NO CLASS.
 - In-class work time
 - Complete course evaluation
 
+{: .homework }
 > P3 - Final Draft due by May 7
->
 > Final Reflection Assignment due by May 11
