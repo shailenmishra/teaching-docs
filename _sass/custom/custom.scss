@@ -32,9 +32,18 @@ blockquote.homework a {
   color: #716f71;
 }
 
-// Increase the font size for desktop and mobile
-html {
-  scroll-behavior: smooth;
+// Increase the font size for mobile
+@mixin fs-4 {
+  & {
+    font-size: $font-size-5 !important;
+  }
 
-  @include fs-5;
+  @include mq(sm) {
+    font-size: $font-size-5 !important;
+  }
+}
+
+// To allow small screem mobile devices to scale the font size
+html {
+  text-size-adjust: auto; 
 }
