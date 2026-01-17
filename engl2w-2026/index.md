@@ -1,11 +1,11 @@
 ---
-title: ENGL 1J
-nav_order: 2
+title: ENGL 2W
+nav_order: 3
 layout: default
 has_toc: false
 ---
 
-# ENGL 1J - Persuasion - Spring 2026
+# ENGL 2W - Words Matter - Spring 2026
 
 Use the navigation bar to your left to navigate course contents. You'll find five links in the navigation bar: 
 
