@@ -1,14 +1,14 @@
 ---
-title: ENGL 1J Schedule
+title: ENGL 1J Schedule - Rough Draft
 parent: ENGL 1J
-nav_order: 2
+nav_exclude: true
 layout: default
 ---
 
 # ENGL 1J Weekly Schedule
 {: .no_toc }
 
-Below you will find the weekly breakdown of scheduled readings and assignments. This schedule might change with prior notice. The abbreviation *OTW* refers to the textbook *Out of the Woods*.
+Below you will find the weekly breakdown of scheduled readings and assignments. This schedule might change with prior notice. The abbreviation *OTW* refers to the textbook *Out of the Woods*. Also, wherever the readings don't have a link to them please check Perusall for the corresponding pdf file.  
 
 <details markdown="block">
   <summary>
@@ -23,96 +23,101 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 ### Jan 20
 
 - Syllabus and peer introduction
-- Discussion of first chapter "The Rhetorical Tradition" in TEGR
-- Discussion of the newsletter "[A chemical disaster occurred almost every day in 2023](https://docs.google.com/document/d/1uWNA7UIg89yi9c1sD2HGKNrvmAwrwI7sTP7KRfAMvI4/edit?usp=drive_link)"
+	- Discussion of the following articles by scholar David Buck : 1) "[On Rhetoric](https://pressbooks.howardcc.edu/essentials/chapter/on-rhetoric/)"; 2) "[The Rhetorical Situation](https://pressbooks.howardcc.edu/essentials/chapter/the-rhetorical-situation/)"; 3) "[Language Matters: A Rhetorical Look at Writing](https://pressbooks.howardcc.edu/essentials/chapter/language-matters-a-rhetorical-look-at-writing/)"
+	- Discussion of the newsletter "[Out of grief, and into anger](https://web.archive.org/web/20200619193509/https://heated.world/p/out-of-grief-and-into-anger)" by Emily Atkin
+- In-class writing activity: make a list of rhetorical concepts you learned
 
 {: .homework }
 > Complete the assigned reading for the next class
 
 ### Jan 22
 
-- Getting to know the basic concepts of rhetorical situations. Discussion of "[How we Use Rhetoric in Everyday Life](https://www.ucf.edu/news/how-we-use-rhetoric-in-everyday-life/)"
-- Discussion of chapter "Rhetoric and the Audience" (page 12-18) in *TEGR*
+- Discussion of the chapter "[The Rhetorical Situation](https://open.lib.umn.edu/rhetoricaltheory/chapter/the-rhetorical-situation/)" in the book *Reading Rhetorical Theory*
 - Discussion of the [speech by Kathy Jetnil-Kijiner at the 2014 UN Climate Summit](https://youtu.be/mc_IgE7TBSY). Please read this [companion piece](https://www.kathyjetnilkijiner.com/three-weeks-after-the-un-climate-summit-or-coming-home-to-a-climate-reality/) alongside watching the video
+- In-class writing activity: add to the list of rhetorical concepts you learned
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by **Jan 26** in Moodle titled "Your Thoughts on Persuasion"
+> 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by **Jan 25** in Moodle titled "Your Thoughts on Persuasion"
 
 ## Week 2
 
 ### Jan 27
 
-- Introduction to [Project 1 - Handout](https://docs.google.com/document/d/11ZgKvz3XuJbc2avRPTH1GoM0PmpUFiqLkvQuAKp5Ibc/edit?usp=sharing)
-- Discussion of chapter "Rhetoric and the Audience" (page 19-25) in *TEGR*.
-- Discussion of the podcast "[Polarized Opinion on Climate Change and Messages that Move Conservatives](https://soundcloud.com/user-735940457-95015381/polarized-opinion-on-climate-change-and-messages-that-move-conservatives)"
-- **In-class reading**: A reading from Swarthmore's Special Collections: "[Ten Pins - Ten Opinions why Women should Vote, circa 1915. Women's Rights Persons, Box: 3. Source: Emily Howland family photographs, SFHL-PA-115. Friends Historical Library of Swarthmore College.](https://drive.google.com/file/d/1vpBAFNhlE7OJA0UJ7IlX-mZ1B4DYeuzK/view?usp=drive_link)"
+- Introduction to Project 1 - Handout
+- Discussion of articles "[Why Learn Rhetorical Analysis?](https://drew-m-loewe.gitbook.io/rhetorical-analysis/2.-why-learn-rhetorical-analysis)" and "[Rhetoric and Emotion](https://drew-m-loewe.gitbook.io/rhetorical-analysis/12.-rhetoric-and-emotion)" by scholar Drew M. Loewe
+- Discussion of essay "Under the Weather" by Ash Sanders from the book *All We Can Save: Truth, Courage, and Solutions for the Climate Crisis*
+- Discussion of the podcast "[Why Climate Emotions Matter](https://soundcloud.com/jenniferwren/episode-2-why-climate-emotions)"
+- In-class writing activity: seeing and naming emotions in everyday rhetoric
 
 {: .homework }
-> Read the assigned readings for the next class and watch the first 22 minutes of the documentary [Chasing Coral](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj)
+> Read the assigned readings for the next class
 
 ### Jan 29
 
-- Discussion of chapter "Situations and Speech Types" in *TEGR*.
-- Discussion of the example text: watch the first 22 minutes of the Netflix documentary [Chasing Coral](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj)
-- A reading from Swarthmore's Special Collections: "[Living Wage Collection Incites Controversy](https://digitalcollections.tricolib.brynmawr.edu/object/sc251410)" by Christina Temes, Swarthmore Phoenix, 2004-03-25, p. 6 and read corresponding "[Letters to the editor](https://digitalcollections.tricolib.brynmawr.edu/object/sc251411)", Swarthmore Phoenix, 2004-04-01, p. 17
+- Discussion of chapters "The Problem with Facts" and "The Fear Factor" by Katharine Hayhoe from the book *Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World*
+- Discussion of the documentary [*Chasing Coral*](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj): watch the first 22 minutes of this documentary
+- In-class writing activity: seeing and naming emotions in everyday rhetoric
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by **Feb 2** (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by **Feb 1** (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)
 
 ## Week 3
 
 ### Feb 3
 
-- Discussion of chapter "Argument and Persuasion" in *TEGR*.
-- Discussion of the example text: "[Global Warming Is the Front-Page Story of Our Lifetime](https://www.thenation.com/article/environment/global-warming-media/)" by Tom Engelhardt.
+- Discussion of "Introduction" (pages 1-14) from the book *A Sense of Urgency: How the Climate Crisis Is Changing Rhetoric* by Debra Hawhee
+- Discussion of the podcast "[Climate Magic: Eco-grief on the Frontline, with Ashlee Cunsolo](https://www.khsu.org/show/climate-magic/2025-07-21/climate-magic-ashlee-cunsolo)" by Sarah Jaquette Ray and Ashlee Cunsolo
 - Discussion of the communication genre example you plan to analyze for Project 1
-- [How to do close analysis?](https://twain.lib.virginia.edu/07twain/closereadexs.html)
-- A reading from Swarthmore's Special Collections: "[Race? What the Scientists Say](https://drive.google.com/file/d/1c3sIydIUQYkgZzBHUlGPdphtfJj0RZ72/view)" compiled by Caroline Singer, 1939. PG6: Race Relations.
 
 {: .homework }
 > Read the assigned readings for the next class
 
 ### Feb 5
 
-- **Out of class activity**: Meet at LibLab (McCabe 104) and librarians Celia Caust-Ellenbogen and Jordan Landes will take us through the special collections examples on persuasion
+- Discussion of "[Close Reading](https://writingxhumanities.berkeley.edu/close-reading/)" in Humanities Writing
+- Discussion of [sample "Rhetorical Analysis"](https://dtext.org/icap/rjs/Chapter_9_RhetoricalAnalysis.pdf): how to design and structure your analysis 
+- Discussion of "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)"
+- In-class writing activity: collectively as a class we'll do a test composition in ArcGIS StoryMaps by rhetorically analyzing "[The Polar Opposite](https://tinyurl.com/7a6ukkrc)" magazine cover of *The New Yorker* 
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Submit a paragraph of rhetorical analysis for P1 by **Feb 9**
+> 1) Read the assigned readings for the next class; 2) Submit an outline of your rhetorical analysis paper and what sort of contents (text, audio, video, interactive, etc.) might go into it by **Feb 8**
 
 ## Week 4
 
 ### Feb 10
 
-- Discussion of [Sample Rhetorical Analysis](https://owl.excelsior.edu/argument-and-critical-thinking/argument-analysis/argument-analysis-sample-rhetorical-analysis/) from the Excelsior Online Writing Lab. The pdf with annotations can be found [at this link](https://owl.excelsior.edu/wp-content/uploads/2018/05/SampleRhetoricalAnalysis.pdf).
-- Revisit the project 1 handout and learn how to perform rhetorical analysis to meet project's expectations
-- Revise your paragraph of rhetorical analysis for P1 and continue your work
+- Discussion of chapter "Ways of Learning, Ways of Knowing" (pages 93-111) from the book *Creative (Climate) Communications: Productive Pathways for Science, Policy and Society*
+- Discussion of the poem "[SPAM's carbon footprint](https://poets.org/poem/spams-carbon-footprint)" by Craig Santos Perez
+- Share with your learning pod your outline and multimodal content plan for P1 - Rough Draft
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Peruse and familiarize yourself with [different writing/communication genres](https://drive.google.com/drive/folders/15Lf5z1LWarVTkGtyBVvrDC3eyCnQoM31?usp=share_link) used by Swarthmore's Office of Sustainability and bring questions to class for guest speaker
+> 1) Read the assigned readings for the next class; 2) Start working on P1 - Rough Draft
 
 ### Feb 12
 
-- ~~Discussion with the guest speaker from Swarthmore's Office of Sustainability (get a perspective on how communications are composed with full cognizance of rhetorical contexts)~~
-- Discussion of chapter "Style" in *TEGR*
-- Discussion of the example text: "[SPAM's carbon footprint](https://poets.org/poem/spams-carbon-footprint)" by Craig Santos Perez and "[Murmuration](https://drive.google.com/file/d/1hvw6UJVKc81c9w53dqZBLAJOUzj4ZMlv/view?usp=sharing)" and "[We Are Bodies In Bodies We Are Stars](https://drive.google.com/file/d/1pKatElL_jOOgL0hHN3SIOs5J-iChLwGq/view?usp=sharing)" by Tamiko Beyer
+- Discussion of article "[The Case for Climate Rage](https://popula.com/2019/08/19/the-case-for-climate-rage/)" by Amy Westervelt
+- Discussion of newsletter "Wild Ones: Environmental Rage" by Gavin Lamb
+- In-class activity: Work on P1 - Rough Draft and get any questions answered
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Submit P1 - Rough Draft by **Feb 16**
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Rough Draft by **Feb 15**
 
 ## Week 5
 
 ### Feb 17
 
+- Discussion of article "Teaching and (Re)Learning the Rhetoric of Emotion" by Shari Stenberg
+- In-class peer feedback of P1 - Rough Draft
+
+{: .homework }
+> 1) Read the assigned readings for the next class; 2) Continue to work on P1 - Rough Draft
+
+### Feb 19
+
 - Discussion of video "[Umwelt: The hidden sensory world of animals](https://bigthink.com/series/explain-it-like-im-smart/animal-senses/)"
 - Discussion of the ["Introduction"](https://drive.google.com/file/d/1iTXsPQoGnCpWHj3l1VbcJd-502rxRfYU/view) chapter in the book *The Sensory Modes of Animal Rhetorics*
 - Discussion of the chapter "Prologue: Culture and Everyday Nature" in *OTW*
 - C4 representatives visit class
-
-{: .homework }
-> Listen to the podcast "Urban Coyote: What wildlife in cities can teach us about ourselves" and read the chapter "Living In a Circle of Beating Hearts" in *OTW*
-
-### Feb 19
-
 - Discussion of "[Urban Coyote: What wildlife in cities can teach us about ourselves](https://www.kuow.org/stories/a-coyote-walks-into-a-quiznos)"
 - Discussion of the chapter "Living In a Circle of Beating Hearts" in *OTW*
 - Peer-review workshop on P1 - Rough Draft in class. Submit peer feedback to Moodle by Feb 23 midnight.
