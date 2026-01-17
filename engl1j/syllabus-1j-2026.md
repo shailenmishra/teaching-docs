@@ -39,7 +39,7 @@ There will be three projects that you will complete in this course:
 
 ## Schedule
 
-[Weekly schedule](https://docs.google.com/document/d/1Xap6w0ItqECAFM57fx51bg8TxJh9N_HXiBTD3Yeue9I/edit?usp=sharing) for the course is available for your review.
+[Weekly schedule](https://shailenmishra.com/teaching-docs/engl1j/schedule-1j-2026.html) for the course is available for your review.
 
 ##  Texts
 
