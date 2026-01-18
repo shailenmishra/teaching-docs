@@ -1,6 +1,6 @@
 ---
 title: ENGL 1J Syllabus
-parent: ENGL 1J
+parent: ENGL 1J 2026
 nav_order: 1
 layout: default
 ---
@@ -39,7 +39,7 @@ There will be three projects that you will complete in this course:
 
 ## Schedule
 
-[Weekly schedule](https://shailenmishra.com/teaching-docs/engl1j/schedule-1j-2026.html) for the course is available for your review.
+[Weekly schedule](https://shailenmishra.com/teaching-docs/engl1j-2026/schedule-1j-2026.html) for the course is available for your review.
 
 ##  Texts
 

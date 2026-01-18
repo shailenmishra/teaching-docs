@@ -1,5 +1,5 @@
 ---
-title: ENGL 1J
+title: ENGL 1J 2026
 nav_order: 2
 layout: default
 has_toc: false

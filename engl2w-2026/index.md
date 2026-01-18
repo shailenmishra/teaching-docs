@@ -1,5 +1,5 @@
 ---
-title: ENGL 2W
+title: ENGL 2W 2026
 nav_order: 3
 layout: default
 has_toc: false

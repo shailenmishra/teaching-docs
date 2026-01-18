@@ -1,6 +1,6 @@
 ---
 title: ENGL 2W Schedule
-parent: ENGL 2W
+parent: ENGL 2W 2026
 nav_order: 2
 layout: default
 nav_exclude: true

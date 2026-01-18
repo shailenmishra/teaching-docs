@@ -1,6 +1,6 @@
 ---
 title: ENGL 1J Schedule - Rough Draft
-parent: ENGL 1J
+parent: ENGL 1J 2026
 nav_exclude: true
 layout: default
 ---
