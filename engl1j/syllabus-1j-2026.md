@@ -77,7 +77,7 @@ Course expectations and policy details are shared below as a FAQ. If any questio
 6.  What are the [learning outcomes](#learning-outcomes) of this course?
 7.  Do you have an [attendance policy](#attendance-policy)?
 8.  Do you accept [late work](#late-work)?
-9.  What if I accidentally [submit the wrong file](#submit-the-wrong-file) to Moodle and realize it later?
+9.  What if I accidentally [submit the wrong file](#submitting-your-assignment) to Moodle and realize it later?
 10. What's the course policy on [plagiarism and academic integrity](#plagiarism-and-academic-integrity)?
 11. What's your policy on the [use of AI](#use-of-ai) in this course?
 12. As a student with a disability what sort of [accommodation policy](#accommodation-policy) can I expect?
