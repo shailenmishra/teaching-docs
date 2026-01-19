@@ -32,7 +32,7 @@ Style remains an elusive and controversial aspect of writing. Primarily because 
 
 ## Schedule
 
-[Weekly schedule](https://shailenmishra.com/teaching-docs/engl1j/schedule-2w-2026.html) for the course is available for your review.
+[Weekly schedule](https://shailenmishra.com/teaching-docs/engl2w-2026/schedule-2w-2026.html) for the course is available for your review.
 
 ##  Texts
 

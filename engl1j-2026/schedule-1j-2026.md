@@ -23,8 +23,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 ### Jan 20
 
 - Syllabus and peer introduction
-	- Discussion of the following articles by scholar David Buck : 1) "[On Rhetoric](https://pressbooks.howardcc.edu/essentials/chapter/on-rhetoric/)"; 2) "[The Rhetorical Situation](https://pressbooks.howardcc.edu/essentials/chapter/the-rhetorical-situation/)"; 3) "[Language Matters: A Rhetorical Look at Writing](https://pressbooks.howardcc.edu/essentials/chapter/language-matters-a-rhetorical-look-at-writing/)"
-	- Discussion of the newsletter "[Out of grief, and into anger](https://web.archive.org/web/20200619193509/https://heated.world/p/out-of-grief-and-into-anger)" by Emily Atkin
+- Discussion of the following articles by scholar David Buck : 1) "[On Rhetoric](https://pressbooks.howardcc.edu/essentials/chapter/on-rhetoric/)"; 2) "[The Rhetorical Situation](https://pressbooks.howardcc.edu/essentials/chapter/the-rhetorical-situation/)"; 3) "[Language Matters: A Rhetorical Look at Writing](https://pressbooks.howardcc.edu/essentials/chapter/language-matters-a-rhetorical-look-at-writing/)"
+- Discussion of the newsletter "[Out of grief, and into anger](https://web.archive.org/web/20200619193509/https://heated.world/p/out-of-grief-and-into-anger)" by Emily Atkin
 - In-class writing activity: make a list of rhetorical concepts you learned
 
 {: .homework }
@@ -37,7 +37,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - In-class writing activity: add to the list of rhetorical concepts you learned
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Learning pod will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by **Jan 25** in Moodle titled "Your Thoughts on Persuasion"
+> 1) Complete assigned readings for the next class; 2) Learning pods will be decided over the weekend and the information will be emailed to you; 3) Complete the reflection activity by **Jan 25** in Moodle titled "Your Thoughts on Persuasion"
 
 ## Week 2
 
