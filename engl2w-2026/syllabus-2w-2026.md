@@ -3,7 +3,6 @@ title: ENGL 2W Syllabus
 parent: ENGL 2W 2026
 nav_order: 1
 layout: default
-nav_exclude: true
 ---
 
 # ENGL 2W Syllabus
