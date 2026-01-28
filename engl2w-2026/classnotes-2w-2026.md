@@ -46,6 +46,21 @@ intrinsically related to *what* is said—its content.
 - **antimetabole**: a verbal pattern in which the second half of an expression is balanced against the first but with the words in reverse grammatical order (as in A-B/B-A or A-B-C/C-B-A) is called antimetabole. Pronounced as "an-tee-meh-TA-bo-lee," it is essentially the same as **chiasmus**. An example would be this saying by Malcolm X: "We didn't land on Plymouth Rock; Plymouth Rock landed on us."
 - **parallelism**: at the level of sentence or clause, it mean a similarity in structure, meaning a pattern of syntactic structure that parallels itself between adjacent sentences or clauses. So, isocolon, antimetabole, or anaphora will all be different types of parallelisms, whereas rhetorical devices like alliterations and assonances are more precisely known as phonological parallelisms.       
 - **ellipsis**: a figure of syntax, by which one or more words, which are obviously understood, are omitted. From Tom Junod's article “The Falling Man”: "They jumped through windows already broken and then, later, [they jumped] through windows they broke themselves." Junod withholds the use of “they jumped” at the start of the second clause, where it would normally go, instead using ellipsis.
+- **periodic sentence**: deferring meaning until the end of the sentence. For example, Thomas Paine's sentence, "These are the times that *try men's souls*."
+- **sibilant**: characterized by, or producing a hissing sound like that of (s) or (sh).
+- **the rule of three**: which emphasizes the effectiveness of items that come in threes. The rule is sometimes called **tricolon**, signaling the three-part structure in clauses like Caesar’s “veni, vidi, vici” (“I came, I saw, I conquered”). The three-word series (“four more years”) helps us recall [Obama's] tweet.
+- **sentence fragment**: which leaves out subjects or verbs (or both). The fragment, while technically violating a grammar rule, can be appropriate for the occasion,  allowing the rhetor to amplify the words with their own associations.
+- **polysyndeton**: The repetition of conjunctions in close succession for rhetorical effect, as in the phrase "here and there and everywhere."
+- **asyndeton**: the omission of the conjunction. 
+- **rhetorical question**: a question to which no answer is expected, often used for rhetorical effect, or a question posed only for dramatic or persuasive effect. 
+- **antithesis**: a type of parallelism (see above); a contrast or an opposition of words or sentiments; the juxtaposition of contrasting ideas; a figure of speech consisting of bringing contrary ideas or terms into close opposition
+- **oxymoron**: it is the juxtaposition of two terms usually considered contradictory. For example, bittersweet, open secret, or cruel kindness.
+- **epistrophe**: repetition of the ending phrase; in contrast to anaphora (see above)
+- **anoiconometon**: unexpected, awkward, illogical, or improper arrangement of words. 
+- **epizeuxis**: repetition of the same word, with no other words in between, for vehemence or emphasis.
+- **anadiplosis**: in which the last word of one phrase becomes the first of the next.
+- **apostrophe**: the interruption of the course of a speech or writing, in order to address briefly a person or persons (present or absent, real or imaginary) individually or separately
+- 
 
 ## What is style?
 - Style is a way of writing
@@ -62,3 +77,23 @@ intrinsically related to *what* is said—its content.
 - Style as identity or individual expression
 - Style as voice
 
+## Why style matters?
+- Style reveals writer's true meaning
+- Style makes writing memorable and enduring
+- Style uncovers the writer's attitude or tone
+- Style transcends genre and other constraints
+- Style exposes a writer's conflicts and unintended meanings
+
+## Style as pushing the envelope
+- Style can disrupt conventional thinking
+- Style can illuminate unstated associations
+- Style shows--and masks--the writer's mind at work
+- Style makes the familiar new
+- Style values ironic or indirect meanings
+
+
+
+## Class Slides
+
+- Jan 26 class (to be linked)
+- [Jan 28 class](./slides/jan28-2w-2026.html)
