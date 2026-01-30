@@ -48,6 +48,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of essay "Under the Weather" by Ash Sanders from the book *All We Can Save: Truth, Courage, and Solutions for the Climate Crisis*
 - Discussion of the podcast "[Why Climate Emotions Matter](https://soundcloud.com/jenniferwren/episode-2-why-climate-emotions)"
 - In-class writing activity: seeing and naming emotions in everyday rhetoric
+- [Class Notes](./slides/jan27-1j-2026.html)
 
 {: .homework }
 > Read the assigned readings for the next class
@@ -57,6 +58,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of chapters "The Problem with Facts" and "The Fear Factor" by Katharine Hayhoe from the book *Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World*
 - Discussion of the documentary [*Chasing Coral*](https://youtu.be/aGGBGcjdjXA?si=9ggV07BFUnYEnCPj): watch the first 22 minutes of this documentary
 - In-class writing activity: seeing and naming emotions in everyday rhetoric
+- [Class Notes](./slides/jan29-1j-2026.html)
 
 {: .homework }
 > 1) Read the assigned readings for the next class; 2) Submit P1 - Topic Proposal by **Feb 1** (submit a communication genre and example from an environmental organization you plan to rhetorically analyze as part of Project 1)

@@ -67,7 +67,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 ### Feb 4
 
 - Discussion of essay "Public Writing for Social Change" by Ashley J. Holmes (pages 205-212)
-- Discussion of article "Email Newsletters Are a New Literary Genre" by Molly Fischer
+- Discussion of article "The Sound of My Inbox" by Molly Fischer
 - Discussion of the newsletter: "[What makes a good newsletter?](https://onethingnewsletter.substack.com/p/what-makes-a-good-newsletter)"
 - In-class activity: Analysis of the newsletter genre, discussion of your newsletter idea, and analyzing its audience, purpose and exigency
 

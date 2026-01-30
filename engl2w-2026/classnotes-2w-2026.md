@@ -95,5 +95,5 @@ intrinsically related to *what* is said—its content.
 
 ## Class Slides
 
-- Jan 26 class (to be linked)
+- [Jan 26 class](./slides/jan26-2w-2026.html)
 - [Jan 28 class](./slides/jan28-2w-2026.html)
