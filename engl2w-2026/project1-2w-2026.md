@@ -61,7 +61,7 @@ Total grade points: 20%
 - The Rough Draft should be composed in the Notion template I will provide you. Your writing should autosave in the Notion itself and I would encourage you to compose directly in it so that you get a more immediate writing experience of composing interactive and multimodal content. However, it's prudent to keep a back up of your work in a Google Doc file. Notion is around long enough, they're reliable, and they'll save your work in their cloud storage. Nevertheless, it's a new app for you if you're not used to it. Better to be safe than sorry. As far as submitting your Rough Draft is concerned,
 	- Please follow the instructions as per the section "[Share [your work] with one person](https://www.notion.com/help/share-your-work#share-with-one-person)". You'll give full access to me and your peer reviewer by using our Swarthmore email ID.
 	- Also use the "Copy link" option to copy the link to your draft and upload that link to Moodle for easy access by me and your peer reviewer
-	  ![A screenshot of Notion's share & publish interface with "Copy link" as a button on bottom right](assets/Pasted_image_20260130231819.png)
+	  ![A screenshot of Notion's share & publish interface with "Copy link" as a button on bottom right](../assets/Pasted_image_20260130231819.png)
 	
 - The final draft should published to the web. Follow the instructions in the section "[Share with the web](https://www.notion.com/help/share-your-work#share-with-one-person)". Copy the published link and post it to Moodle.
 
