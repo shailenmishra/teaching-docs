@@ -38,7 +38,7 @@ Total grade points: 20%
 	- I think Jenn McClearen's [post](https://www.publishnotperish.net/p/how-to-write-for-public-audiences) is a good model. It reads like an advice column but the work has a tight and purposeful structure to it. And an advising genre is a relevant context to experiment in style.
 	- Another example will be the post titled "[The Power of Feeling Your Feelings](https://substack.com/home/post/p-179101645)" by Vasile Stănescu. It has a singular topical focus and the structure is more essayistic than disjointed. Though I must admit that section headers like the ones you'll find in McClearen's post is a crucial part of the newsletter genre. 
 	- This post titled "[Who's Getting Rich Off Your Attention?](https://kyla.substack.com/p/whos-getting-rich-off-your-attention)" by finance expert Kyla Scanlon is on longish side but makes great use of multimodal content. It dives deep into a contemporary economic issue and composes a very structured informative and argumentative piece.
-	- Finally, [this post](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not) by Peter Gray, the Psychology and Neuroscience scholar, is focused on a single topic and builds a coherent argument on that topic.
+	- Finally, Finally, the post titled “[ADHD Is a Personality Trait, not a Disorder](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not)” by Peter Gray, the Psychology and Neuroscience scholar, is focused on a single topic and builds a coherent argument on that topic.
 - Make sure that you're incorporating multimodal content in your work. There's no minimum number of contents to incorporate. But think of it in an organic manner. Ask yourself, for my topic, my argument, and my style, how should I design the "text" I'm producing. What diverse modes of communication (aural, visual, linguistic, gestural, and spatial) need go into my communication to make my style and argument come across as substantive and emphatic. 
 - Multimodal contents needs to have captions below them and their source needs to cited. 
 - Also, for the textual content, citation is expected when necessary. Use the hyperlink method to cite your sources. You can see in the Substack posts how to hyperlink your source in a reader-friendly and intuitive manner.
@@ -63,11 +63,18 @@ Total grade points: 20%
 	- Also use the "Copy link" option to copy the link to your draft and upload that link to Moodle for easy access by me and your peer reviewer
 	  ![A screenshot of Notion's share & publish interface with "Copy link" as a button on bottom right](../assets/Pasted_image_20260130231819.png)
 	
-- The final draft should published to the web. Follow the instructions in the section "[Share with the web](https://www.notion.com/help/share-your-work#share-with-one-person)". Copy the published link and post it to Moodle.
+- The final draft should published to the web. Follow the instructions in the section "[Share with the web](https://www.notion.com/help/share-your-work#share-with-the-web)". Copy the published link and post it to Moodle.
 
 ## Notion Template
+We will go over the following instructions in-person in class. So you can wait to follow these steps.
 
-*To be shared...*
+- Log in or [create an account](https://www.notion.com/help/start-here) with Notion. Make sure that you create the account with your Swarthmore email ID that way you [can upgrade to the Plus plan for free](https://www.notion.com/help/notion-for-education#upgrade-to-the-plus-plan-for-education). Here are the instructions from their help page:
+	1. Go to `Settings` in your sidebar.
+	2. Select `Upgrade plan`.
+	3. Select `Get free education plan`. If your school is recognized by our system, you’ll be upgraded automatically!
+	4. If you satisfy all requirements above for access to the plan but don't see `Get free education plan`, please write into [team@makenotion.com](mailto:team@makenotion.com) to request your school domain get access. If your institution is recognized by and listed in the WHED, your domain will be allowlisted and receive access.
+- Once logged in, head over to [Words Matter Portfolio](https://balanced-monarch-235.notion.site/Words-Matter-Portfolio-Your-Last-Name-2c9906c28c908074a9e0ebd7632d91a6?pvs=143). Make a copy of this page: [Move & duplicate content](https://www.notion.com/help/transfer-content-to-another-account).
+- This is a one-time copy. The page have multiple components which I will introduce you to in class. Essentially, this single page has links to multiple pages such as: Project 1 page, Project 2 page and Project 3 page. And these are the pages in which you'll compose your drafts for each project. Also this copy will ensure that you start with a fresh copy of the pages and *you become the sole owner of it*. I and others won't have access to any of these pages until you explicitly share it. Additionally, the page "Words Matter Portfolio" is meant to serve as a "single point" for showcasing your writing assignments to the class and the world. 
 
 ## Learning Outcomes
 - *Reading Skills*: What readings in the class did resonate with you the most and why? What ways were you able to engage with the readings critically? How did the readings help you as a writer and rhetor? What persuasive and rhetorical strategies did you develop through the course readings?
