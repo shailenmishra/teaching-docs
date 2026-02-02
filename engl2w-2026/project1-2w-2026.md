@@ -47,7 +47,7 @@ Total grade points: 20%
  Total grade points: 20%, which is divided as follows: 
  
  - **Topic proposal**: Propose the topic on which your newsletter will be based by **Feb 3**. Follow the prompt in Moodle. Grade points will be 2%.
-- **Outline**: Submit an outline for your newsletter post by **Feb 7**. Grade points: 2%. What I am looking for in this outline is: 
+- **Outline**: Submit an outline for your newsletter post by **Feb 8**. Grade points: 2%. What I am looking for in this outline is: 
 	- a) What's special about your newsletter? Meaning, what's the niche topic or exigency around which your newsletter is built? We'll need to brainstorm more on this area, as this is the crucial first step to ensuring that you get clarity and purpose in exercising style.
 	- b) Who is the audience? What demographic or what sort of "public" for which this newsletter is targeted?
 	- c) What will be the structure of your post? Meaning, the outline will lay out the overall organization of your content.

@@ -72,7 +72,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - In-class activity: Analysis of the newsletter genre, discussion of your newsletter idea, and analyzing its audience, purpose and exigency
 
 {: .homework }
-> 1) Complete the assigned reading for the next class; 2) Submit an outline of your newsletter and preliminary research by **Feb 7** 
+> 1) Complete the assigned reading for the next class; 2) Submit an outline of your newsletter and preliminary research by **Feb 8** 
 
 ## Week 4
 

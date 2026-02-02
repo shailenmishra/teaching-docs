@@ -60,6 +60,8 @@ intrinsically related to *what* is said—its content.
 - **epizeuxis**: repetition of the same word, with no other words in between, for vehemence or emphasis.
 - **anadiplosis**: in which the last word of one phrase becomes the first of the next.
 - **apostrophe**: the interruption of the course of a speech or writing, in order to address briefly a person or persons (present or absent, real or imaginary) individually or separately
+- **climax**: when words are arranged in an increasing order of importance
+- **noun style**: a sentence in which the noun form of a word is used as opposed to a verb form. For example, "these chemicals *contaminate* the earth" vs. "the *contamination* of the earth by these chemicals." The first sentence structure uses the verb form of the word "contaminate," while sentence sentence opts for the noun form of the same word. Turning of the verb to noun is also called **nominalization**.
 - 
 
 ## What is style?
