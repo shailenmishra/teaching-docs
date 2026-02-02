@@ -99,3 +99,4 @@ intrinsically related to *what* is said—its content.
 
 - [Jan 26 class](./slides/jan26-2w-2026.html)
 - [Jan 28 class](./slides/jan28-2w-2026.html)
+- [Feb 2 class](./slides/feb2-2w-2026.html)
