@@ -78,32 +78,39 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 ### Feb 9
 
-- Discussion of "Frontiers of Style in Rhetoric and Composition" by Brian Ray (pages 123-135)
-- Discussion of the newsletter: "[Geese Are Good For You](https://chasingnature.substack.com/p/geese-are-good-for-you)" by Bryan Pfeiffer
-- Discussion of the newsletter: "[Why nature sometimes needs a helping hand?](https://ruthbradshaw.substack.com/p/why-nature-sometimes-needs-a-helping)" by Ruth Bradshaw
+- Discussion of "Frontiers of Style in Rhetoric and Composition" by Brian Ray (pages 123-137)
+- Discussion of the newsletter: "[The Power of Feeling Your Feelings](https://winforanimals.substack.com/p/the-power-of-feeling-your-feelings)" by Vasile Stănescu
+- Discussion of P1 - Outline in class
 
 {: .homework }
-> 
+> 1) Complete assigned readings for the next class; 2) Start working on P1 - Rough Draft
 
 ### Feb 11
 
-- 
+- Discussion of the newsletter "[ADHD Is a Personality Trait, not a Disorder](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not)” by Peter Gray
+- Discussion of Notion's [project template](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not) for writing projects
+- Revisit the structure of intro, body, and concluding paragraphs in Jeffrey R. Wilson's "How to Do Public Writing"
+- Answering any questions on P1 - Rough Draft and in-class work time 
 
 {: .homework }
-> 
+> 1) Complete assigned readings for the next class; 2) Submit P1 - Rough Draft to Moodle by **Feb 13**; 3) Submit P1 - Peer Feedback to Moodle by **Feb 15** (use the peer feedback questionnaire)   
 
 ## Week 5
 
 ### Feb 16
 
-- 
+- Discussion of "Punctuation’s Rhetorical Effects" by Kevin Cassell
+- Discussion of the newsletter "[Who's Getting Rich Off Your Attention?](https://kyla.substack.com/p/whos-getting-rich-off-your-attention)" by Kyla Scanlon
+- Discussion on incorporating multimodal contents in your draft, design consistency, and accessibility
 
 {: .homework }
-> 
+> 1) Complete assigned readings for the next class; 2) Work on P1 - Rough Draft revision
 
 ### Feb 18
 
-- 
+- Discussion of "[The Embodied Writing Process – How to Tap Your Creative Potential](https://writingcommons.org/section/writing-process/the-secret-hidden-writing-process/)" by Joseph M. Moxley
+- Discussion of the newsletter "[amateur hour: research for amateurs](https://blgtylr.substack.com/p/amateur-hour)" by Brandon Taylor
+- Answering any questions on P1 - Final Draft and in-class work time 
 
 {: .homework }
-> 
+> 1) Complete assigned readings for the next class; 2) Submit P1 - Final Draft to Moodle by **Feb 20**
