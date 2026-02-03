@@ -70,6 +70,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of "Introduction" (pages 1-14) from the book *A Sense of Urgency: How the Climate Crisis Is Changing Rhetoric* by Debra Hawhee
 - Discussion of the podcast "[Climate Magic: Eco-grief on the Frontline, with Ashlee Cunsolo](https://www.khsu.org/show/climate-magic/2025-07-21/climate-magic-ashlee-cunsolo)" by Sarah Jaquette Ray and Ashlee Cunsolo
 - Discussion of the communication genre example you plan to analyze for Project 1
+- [Class Notes](./slides/feb3-1j-2026.html)
 
 {: .homework }
 > Read the assigned readings for the next class
