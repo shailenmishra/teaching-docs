@@ -58,10 +58,10 @@ Before you start with this project, I should explain why I am asking you to carr
 - **Step #5**: Compose your essay in ArcGIS StoryMaps. Here is an [introductory tutorial](https://mediaspace.esri.com/media/1_ytq9sjfb) on getting started with ArcGIS StoryMaps. It's important that as you compose your analysis in this application, you're also thinking and deliberating over making your analysis more engaging, interactive and meaningful. StoryMaps offers quite a few storytelling features that might seem overwhelming. And indeed, not all of them might be relevant for a rhetorical analysis assignment. I think depending on your text and analysis these features might be relevant: image, image gallery, video, audio, slideshow, sidecar, and embedded content. You don't need to use all of them for your analysis. Depending on how your analysis develops, you can use one or more of these storytelling elements to make your analysis lively, organic, interactive, and complementary.     
 
 ## Drafting and Grade Distribution
-- **Topic proposal**: Propose the text you plan to analyze for project 1 by deadlineTBD. Follow the prompt in Moodle. Grade points will be 2%.
-- **Rough Draft**: Submit the first 1000 words of your rhetorical analysis by deadlineTBD. Rough draft carries 5% grade points.
-- **Peer Feedback**: In-class peer feedback will take place on deadlineTBD. A questionnaire will be provided in class to structure and compose your feedback. You’ll submit your peer feedback on Moodle by deadlineTBD. Grade points will be 3%.
-- **Final Draft**: Final Draft must be submitted by deadlineTBD. It should be an interactive and multimodal analysis of 1200 words or more. Additionally, the draft should meet the expectations of the project listed above. You can exceed the word count if needed. Grade points will be 10%. 
+- **Topic proposal**: Propose the text you plan to analyze for project 1 by **Feb 1**. Follow the prompt in Moodle. Grade points will be 2%.
+- **Rough Draft**: Submit the first 1000 words of your rhetorical analysis by **Feb 15** Rough draft carries 5% grade points.
+- **Peer Feedback**: In-class peer feedback will take place on Feb 17. A questionnaire will be provided in class to structure and compose your feedback. You’ll submit your peer feedback on Moodle by **Feb 18**. Grade points will be 3%.
+- **Final Draft**: Final Draft must be submitted by **Feb 22**. It should be an interactive and multimodal analysis of 1200 words or more. Additionally, the draft should meet the expectations of the project listed above. You can exceed the word count if needed. Grade points will be 10%. 
 
 ## Learning Outcomes
 - *Reading Skills*: What readings in the class did resonate with you the most and why? What ways were you able to engage with the readings critically? How did the readings help you as a writer, rhetor and stylist? What stylistic and rhetorical strategies did you develop through the course readings?

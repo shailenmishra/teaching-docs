@@ -110,14 +110,16 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 ### Feb 17
 
 - Discussion of article "Teaching and (Re)Learning the Rhetoric of Emotion" by Shari Stenberg
-- In-class peer feedback of P1 - Rough Draft
+- In-class activity: peer feedback of P1 - Rough Draft based on the questionnaire that will be provided to you
+- In-class help with composing your work in ArcGIS StoryMaps
 
 {: .homework }
-> 1) Read the assigned readings for the next class; 2) Continue to work on P1 - Rough Draft
+> 1) Read the assigned readings for the next class; 2) Submit P1 - Peer Feedback by **Feb 18**; 3) Start revising P1 - Rough Draft
 
 ### Feb 19
 
-- TBD
+- Discussion of "Nature as Community: The Convergence of Environment and Social Justice" by Giovanna Di Chiro (pages 298-309)
+- In-class help with composing your work in ArcGIS StoryMaps
  
 {: .homework }
 > 1) Read the assigned readings for the next class; 2) P1 - Final Draft due by **Feb 22**
