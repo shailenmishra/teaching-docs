@@ -80,7 +80,8 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of "[Close Reading](https://writingxhumanities.berkeley.edu/close-reading/)" in Humanities Writing
 - Discussion of [sample "Rhetorical Analysis"](https://dtext.org/icap/rjs/Chapter_9_RhetoricalAnalysis.pdf): how to design and structure your analysis 
 - Discussion of "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)"
-- In-class writing activity: collectively as a class we'll do a test composition in ArcGIS StoryMaps by rhetorically analyzing "[The Polar Opposite](https://tinyurl.com/7a6ukkrc)" magazine cover of *The New Yorker* 
+- In-class writing activity: collectively as a class we'll do a test composition in ArcGIS StoryMaps by rhetorically analyzing "[The Polar Opposite](https://tinyurl.com/7a6ukkrc)" magazine cover of *The New Yorker*
+- [Class Notes](./slides/feb5-1j-2026.html)
 
 {: .homework }
 > 1) Read the assigned readings for the next class; 2) Submit an outline of your rhetorical analysis paper and what sort of contents (text, audio, video, interactive, etc.) might go into it by **Feb 8**
