@@ -88,7 +88,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 ### Feb 11
 
 - Discussion of the newsletter "[ADHD Is a Personality Trait, not a Disorder](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not)” by Peter Gray
-- Discussion of Notion's [project template](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not) for writing projects
+- Discussion of Notion's [project template](https://balanced-monarch-235.notion.site/Words-Matter-Portfolio-Your-Last-Name-2c9906c28c908074a9e0ebd7632d91a6?pvs=143) for writing projects
 - Revisit the structure of intro, body, and concluding paragraphs in Jeffrey R. Wilson's "How to Do Public Writing"
 - Answering any questions on P1 - Rough Draft and in-class work time 
 
