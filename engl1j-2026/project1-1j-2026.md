@@ -67,7 +67,7 @@ Before you start with this project, I should explain why I am asking you to carr
 	b. *To share the final draft*: when you're ready to share your final draft with the world, use the **Publish** button at the top right. Change the **Set group sharing** to **Everyone (Public)**. Under the **Set group sharing** box, remove "English 1J S26" as the shared group by clicking the **X** button. And then click the **Publish** button at top right again. After receiving the confirmation that your work is published, copy the link using the "Copy link" icon and submit it to Moodle. 
 
 ## Drafting and Grade Distribution
-- **Topic proposal**: Propose the text you plan to analyze for project 1 by **Feb 1**. Follow the prompt in Moodle. Grade points will be 2%.
+- **Topic proposal**: Propose the text you plan to analyze for project 1 by **Feb 1**. Follow the prompt in Moodle. Grade points will be 2%.  
 - **Outline**: Submit an outline of your rhetorical analysis by **Feb 8**. There're no points assigned for this writing task. It's considered as work/preparation toward the rough draft, so it needs to be completed. 
 - **Rough Draft**: Submit the first 1000 words of your rhetorical analysis by **Feb 15** Rough draft carries 5% grade points.
 - **Peer Feedback**: In-class peer feedback will take place on Feb 17. A questionnaire will be provided in class to structure and compose your feedback. You’ll submit your peer feedback on Moodle by **Feb 18**. Grade points will be 3%.
