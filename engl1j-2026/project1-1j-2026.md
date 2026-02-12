@@ -80,4 +80,4 @@ Before you start with this project, I should explain why I am asking you to carr
 - *Multimodal Literacy*: What multimodal contents (audio, visual, etc.) did you read, research, compose, or incorporate for this project? How did the multimodal content choices enrich the style of your essay? How does style and multimodality work with each other in shaping rhetoric?
 
 ## Student Questions
-I expect you to have questions for me in the course of this project. I'll populate this section with your questions and my responses. 
+I expect you to have questions for me in the course for this project. I'll populate this section with your questions and my responses. 
