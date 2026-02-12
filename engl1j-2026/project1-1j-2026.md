@@ -60,9 +60,9 @@ Before you start with this project, I should explain why I am asking you to carr
 	
 	a. *To share the rough draft*: at the rough draft stage, your draft is not yet ready to share with the world. You want to share it with a select few people to receive feedback. Use the **Publish** button at the top right and set the sharing level to **Organization** and select the **Set group sharing** to "English 1J S26 - Persuasion: Environmental Rhetoric & Action," which is a group already created for you and you're already a member of it. In the **Set group sharing** box, as you start typing "English 1J S26..." you will see the group's name to select. Go ahead and click **Publish**. The screen will go through the process of publishing and once you get to the confirmation page saying "You've published your story", you will see a "Copy link" icon. Copy the link and paste it to your Word or Google Doc file and upload the document to Moodle.
 	
-	<video width="640" height="480" controls loop="" muted="" autoplay="">  
-	    <source src="https://github.com/shailenmishra/teaching-docs/blob/main/assets/ArcGIS_StoryMaps_Share_Draf.mp4" type="video/mp4">
-		 A screen grab of how to publish and share your draft on ArcGIS StoryMaps
+	<video width="100%" height="auto" controls loop muted autoplay>
+	    <source src="../assets/ArcGIS_StoryMaps_Share_Draf.mp4" type="video/mp4">
+	    Your browser does not support the video tag.
 	</video>
 	
 	b. *To share the final draft*: when you're ready to share your final draft with the world, use the **Publish** button at the top right. Change the **Set group sharing** to **Everyone (Public)**. Under the **Set group sharing** box, remove "English 1J S26" as the shared group by clicking the **X** button. And then click the **Publish** button at top right again. After receiving the confirmation that your work is published, copy the link using the "Copy link" icon and submit it to Moodle. 
