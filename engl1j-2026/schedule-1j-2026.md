@@ -110,7 +110,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 ### Feb 17
 
-- Discussion of article "Teaching and (Re)Learning the Rhetoric of Emotion" by Shari Stenberg
+- Discussion of article "Teaching and (Re)Learning the Rhetoric of Emotion" by Shari Stenberg (pages 349-362)
 - In-class activity: peer feedback of P1 - Rough Draft based on the questionnaire that will be provided to you
 - In-class help with composing your work in ArcGIS StoryMaps
 
@@ -119,7 +119,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 ### Feb 19
 
-- Discussion of "Nature as Community: The Convergence of Environment and Social Justice" by Giovanna Di Chiro (pages 298-309)
+- Discussion of the podcast "[Is a River Alive? An Interview with Robert Macfarlane](https://emergencemagazine.org/conversation/is-a-river-alive/)"
 - In-class help with composing your work in ArcGIS StoryMaps
  
 {: .homework }
