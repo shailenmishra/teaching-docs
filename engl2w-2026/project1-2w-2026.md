@@ -11,7 +11,7 @@ layout: default
 The first project of English 2W focuses on how to demonstrate a writing style in public writing contexts. Details about the project, deadlines, and point distribution are shared in this handout.
 
 {: .note }
-> This is a working document. I will be adding contents to it and/or tweaking the existing content, as my thought evolves on this assignments and as our discussion on rhetoric becomes more clarifying for me. The idea is to make the assignment expectations clearer to you and more relevant to the course. 
+> This is a working document. I will be adding content to it and/or tweaking the existing content, as my thought evolves on these assignments and as our discussion on rhetoric becomes more clarifying for me. The idea is to make the assignment expectations clearer to you and more relevant to the course. 
 
 
 <details markdown="block">
@@ -31,16 +31,16 @@ Total grade points: 20%
 - Start with a topic idea that you're passionate about. Questions to ask are: why are you creating this newsletter? What's unique and important about it? Who is the audience? Check the "Topic Proposal" and "Outline" expectations below.
 - Once you've established a newsletter idea, you'll compose a post for it as part of Project 1. The idea is that this project will align with the overall theme/purpose of your newsletter and it will be about 1200 words or more. You can envision this post as the first post of your newsletter or second or third...The point is that the number of the post itself is less important and you can only make a passing reference to it. Importantly though, the post should focus on a single subject matter, problem, or issue.
 - The structure of the essay should *not be* fragmented. By that I mean most of the Substack posts tend to have multiple sections to them, wherein the sections are not strictly related to them. 
-	- For example, often in the Substack posts, authors discuss subscription-related issues or they're promoting someone else's work or they're plugging some thing else. Avoid doing that in your post.  
+	- For example, often in the Substack posts, authors discuss subscription-related issues or they're promoting someone else's work or they're plugging something else. Avoid doing that in your post.  
 	- Additionally, some other posts are structured in a highly fragmented way, in which the post is a collage or smorgasbord of a bunch of different topics. Avoid this type of structure to your post.
 	- Another style of Substack post is [listicles](https://en.wikipedia.org/wiki/Listicle), like this post titled "[Why Persuasion Often Fails](https://substack.com/home/post/p-180167949)." Avoid this type of structure too.
 - So what type of structure will be more suitable for your post? Here are a few examples: 
 	- I think Jenn McClearen's [post](https://www.publishnotperish.net/p/how-to-write-for-public-audiences) is a good model. It reads like an advice column but the work has a tight and purposeful structure to it. And an advising genre is a relevant context to experiment in style.
-	- Another example will be the post titled "[The Power of Feeling Your Feelings](https://substack.com/home/post/p-179101645)" by Vasile Stănescu. It has a singular topical focus and the structure is more essayistic than disjointed. Though I must admit that section headers like the ones you'll find in McClearen's post is a crucial part of the newsletter genre. 
-	- This post titled "[Who's Getting Rich Off Your Attention?](https://kyla.substack.com/p/whos-getting-rich-off-your-attention)" by finance expert Kyla Scanlon is on longish side but makes great use of multimodal content. It dives deep into a contemporary economic issue and composes a very structured informative and argumentative piece.
+	- Another example will be the post titled "[The Power of Feeling Your Feelings](https://substack.com/home/post/p-179101645)" by Vasile Stănescu. It has a singular topical focus and the structure is more essayistic than disjointed. Though I must admit that section headers like the ones you'll find in McClearen's post are a crucial part of the newsletter genre. 
+	- This post titled "[Who's Getting Rich Off Your Attention?](https://kyla.substack.com/p/whos-getting-rich-off-your-attention)" by finance expert Kyla Scanlon is on the longish side but makes great use of multimodal content. It dives deep into a contemporary economic issue and composes a very structured, informative and argumentative piece.
 	- Finally, Finally, the post titled “[ADHD Is a Personality Trait, not a Disorder](https://petergray.substack.com/p/87-adhd-is-a-personality-trait-not)” by Peter Gray, the Psychology and Neuroscience scholar, is focused on a single topic and builds a coherent argument on that topic.
-- Make sure that you're incorporating multimodal content in your work. There's no minimum number of contents to incorporate. But think of it in an organic manner. Ask yourself, for my topic, my argument, and my style, how should I design the "text" I'm producing. What diverse modes of communication (aural, visual, linguistic, gestural, and spatial) need go into my communication to make my style and argument come across as substantive and emphatic. 
-- Multimodal contents needs to have captions below them and their source needs to cited. 
+- Make sure that you're incorporating multimodal content in your work. There's no minimum number of contents to incorporate. But think of it in an organic manner. Ask yourself, for my topic, my argument, and my style, how should I design the "text" I'm producing. What diverse modes of communication (aural, visual, linguistic, gestural, and spatial) need to go into my communication to make my style and argument come across as substantive and emphatic. 
+- Multimodal contents need to have captions below them and their source needs to be cited. 
 - Also, for the textual content, citation is expected when necessary. Use the hyperlink method to cite your sources. You can see in the Substack posts how to hyperlink your source in a reader-friendly and intuitive manner.
 
 ## Drafting and Grade Distribution
@@ -63,7 +63,7 @@ Total grade points: 20%
 	- Also use the "Copy link" option to copy the link to your draft and upload that link to Moodle for easy access by me and your peer reviewer
 	  ![A screenshot of Notion's share & publish interface with "Copy link" as a button on bottom right](../assets/Pasted_image_20260130231819.png)
 	
-- The final draft should published to the web. Follow the instructions in the section "[Share with the web](https://www.notion.com/help/share-your-work#share-with-the-web)". Copy the published link and post it to Moodle.
+- The final draft should be published to the web. Follow the instructions in the section "[Share with the web](https://www.notion.com/help/share-your-work#share-with-the-web)". Copy the published link and post it to Moodle.
 
 ## Notion Template
 We will go over the following instructions in-person in class. So you can wait to follow these steps.
