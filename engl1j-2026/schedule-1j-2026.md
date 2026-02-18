@@ -113,6 +113,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of article "Teaching and (Re)Learning the Rhetoric of Emotion" by Shari Stenberg (pages 349-362)
 - In-class activity: peer feedback of P1 - Rough Draft based on the questionnaire that will be provided to you
 - In-class help with composing your work in ArcGIS StoryMaps
+- [Class Notes](./slides/feb17-1j-2026.html)
 
 {: .homework }
 > 1) Read the assigned readings for the next class; 2) Submit P1 - Peer Feedback by **Feb 18**; 3) Start revising P1 - Rough Draft
