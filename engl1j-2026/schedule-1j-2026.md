@@ -125,3 +125,48 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
  
 {: .homework }
 > 1) Read the assigned readings for the next class; 2) P1 - Final Draft due by **Feb 22**
+
+## Week 6
+
+### Feb 24
+
+- Introduction to [Project 2 - Handout]()
+- Discussion of the chapter "Prologue: Culture and Everyday Nature" and "Living In a Circle of Beating Hearts" in *OTW*
+- Discussion of the podcast [Learning to Listen to Plants: An Interview with Monica Gagliano](https://emergencemagazine.org/conversation/learning-to-listen-to-plants/)
+
+{: .homework }
+> 1) Read the chapter "The Granddaddy of All Trash Days" in *OTW* on Perusall; 2) Read "[Take a Break from Your Screen and Look at Plants](https://theconversation.com/take-a-break-from-your-screen-and-look-at-plants-botanizing-is-a-great-way-to-engage-with-life-around-you-210616)" on Perusall; 3) Read "[Shinrin-Yoku, Forest Bathing](https://japanhouse.illinois.edu/education/insights/shinrin-yoku)" on Perusall; 4) Additionally, go over the [Scott Arboretum brochure](https://www.scottarboretum.org/wp-content/uploads/2023/07/IntroTourBrochure-Updated-2022-printer-mark.pdf) 
+
+### Feb 26
+
+- A walk in the [Crum Woods](https://www.swarthmore.edu/crum-woods-stewardship/visiting-crum-woods) led by Katrien de Waard of Scott Arboretum & Gardens. This will be an out-of-classroom learning day, leading to an immersive learning experience in an outdoor space, so dress appropriately and be prepared to record multi-sensory observations in your notebook/phone.
+
+{: .homework }
+> 1) Read the chapter "The Big Hum" in *OTW* on Perusall; 2) Read [Speaking of Nature](https://orionmagazine.org/article/speaking-of-nature/)" by Robin Wall Kimmerer on Perusall; 3) Listen to the podcast “[Finding the Mother Tree: An Interview with Suzanne Simard](https://emergencemagazine.org/interview/finding-the-mother-tree/)”
+
+## Week 7
+
+### Mar 3
+
+- A walk in the [Scott Arboretum](https://www.scottarboretum.org/) led by Katrien de Waard of Scott Arboretum & Gardens. This will be an out-of-classroom learning day, leading to an immersive learning experience in an outdoor space, so dress appropriately and be prepared to record multi-sensory observations in your notebook/phone.
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit a reflection report based on the Crum Woods and Scott Arboretum walk by **Mar 4**  
+
+### Mar 5
+
+- Discussion of the chapter "Out of the Woods" in *OTW*
+- Discussion of the podcast "[Richard Louv and our connection with animals](https://www.kuow.org/stories/the-wild-have-we-lost-our-connection-to-nature-animals)"
+- Discussion of potential topic ideas for Project 2
+
+{: .homework }
+> 1) Submit P2 - Topic Proposal by **Mar 6** (flexible deadline); 2) Complete the assigned reading for the next class; 3) Read “SWAT Research Guide” module in Moodle 
+
+## Week 8
+
+SPRING BREAK. NO CLASS.
+
+![Foreground focuses on intricately detailed snowdrops and crocuses with crisp colors against a muted backdrop. In the distance, rolling hills descend into a quaint village beside a solitary cabin under a dramatic, cloud-filled sky with hints of sunset](https://raw.githubusercontent.com/shailenmishra/teaching/b55e0ad3f6dcbe9651ee9139ccaba7e05218cab1/assets/01-thornton-24-snowdrop-02-cropped.png)
+
+<figcaption>“The Snowdrop”, a plate from “The Temple of Flora”, the third and final part of Robert John Thornton’s <em>New Illustration of the Sexual System of Carolus von Linnaeus (1807)</em>
+</figcaption>
