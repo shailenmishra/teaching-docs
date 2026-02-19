@@ -132,10 +132,10 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 - Introduction to [Project 2 - Handout]()
 - Discussion of the chapter "Prologue: Culture and Everyday Nature" and "Living In a Circle of Beating Hearts" in *OTW*
-- Discussion of the podcast [Learning to Listen to Plants: An Interview with Monica Gagliano](https://emergencemagazine.org/conversation/learning-to-listen-to-plants/)
+- Discussion of the podcast ["Learning to Listen to Plants: An Interview with Monica Gagliano"](https://emergencemagazine.org/conversation/learning-to-listen-to-plants/)
 
 {: .homework }
-> 1) Read the chapter "The Granddaddy of All Trash Days" in *OTW* on Perusall; 2) Read "[Take a Break from Your Screen and Look at Plants](https://theconversation.com/take-a-break-from-your-screen-and-look-at-plants-botanizing-is-a-great-way-to-engage-with-life-around-you-210616)" on Perusall; 3) Read "[Shinrin-Yoku, Forest Bathing](https://japanhouse.illinois.edu/education/insights/shinrin-yoku)" on Perusall; 4) Additionally, go over the [Scott Arboretum brochure](https://www.scottarboretum.org/wp-content/uploads/2023/07/IntroTourBrochure-Updated-2022-printer-mark.pdf) 
+> 1) Read the chapter "The Granddaddy of All Trash Days" in *OTW* on Perusall; 2) Read "[Take a Break from Your Screen and Look at Plants](https://theconversation.com/take-a-break-from-your-screen-and-look-at-plants-botanizing-is-a-great-way-to-engage-with-life-around-you-210616)" on Perusall; 3) Read "[Shinrin-Yoku, Forest Bathing](https://japanhouse.illinois.edu/education/insights/shinrin-yoku)" on Perusall; 4) Additionally, go over the [“Draft: Crum Woods History talk/contextualization”](https://docs.google.com/document/d/10iXy7TMYCg4rcRx5eKDN63wsy1LKv8zkJavRYkb4deI/edit) 
 
 ### Feb 26
 
