@@ -113,4 +113,4 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Answering any questions on P1 - Final Draft and in-class work time 
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Submit P1 - Final Draft to Moodle by **Feb 20**
+> 1) Complete assigned readings for the next class; 2) Submit P1 - Final Draft to Moodle by **Feb 22**
