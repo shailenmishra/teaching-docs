@@ -114,3 +114,24 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 {: .homework }
 > 1) Complete assigned readings for the next class; 2) Submit P1 - Final Draft to Moodle by **Feb 22**
+
+
+## Week 6
+
+### Feb 23
+
+- Discussion of "Style in Essays, Including Imitation and Digital Rhetoric" in TWS
+- Discussion of the [twitter essay](https://docs.google.com/document/d/1MI66mg78gCbnGLje7RY8SOLW4oV5UGVJzZfx9pjprn4/edit?usp=sharing) by Cole Hirsch
+- Discussion of "[What's that bug?](https://storymaps.arcgis.com/collections/68ba1955f063424884fc7c77dea8480e?item=1)" essay in Esri's StoryMaps
+
+{: .homework }
+> Complete assigned readings for the next class
+
+### Feb 25
+
+- Discussion of the section "Style, Digital Genres, and Multimodality" from the book *[Style: An Introduction to History, Theory, Research, and Pedagogy](https://wacclearinghouse.org/books/referenceguides/style/)* by Brian Ray
+- Discussion of the TED Talk "[Design for all 5 senses](https://www.ted.com/talks/jinsop_lee_design_for_all_5_senses?subtitle=en)" by Jinsop Lee
+- Discussion of the Bluesky thread "[The USS Sumter Three](https://bsky.app/profile/eddsmitty.bsky.social/post/3meuvfrndzs2m)" by Eddie Smith
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Complete the post-Project 1 reflection exercise by **Mar 1**
