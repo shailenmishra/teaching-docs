@@ -1,4 +1,4 @@
-	---
+---
 title: Project 1 - Handout
 parent: ENGL 1J 2026
 nav_order: 3

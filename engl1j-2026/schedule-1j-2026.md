@@ -43,7 +43,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 ### Jan 27
 
-- Introduction to [Project 1 - Handout](project1-1j-2026.md)
+- Introduction to [Project 1 - Handout](project1-1j-2026.html)
 - Discussion of articles "[Why Learn Rhetorical Analysis?](https://drew-m-loewe.gitbook.io/rhetorical-analysis/2.-why-learn-rhetorical-analysis)" and "[Rhetoric and Emotion](https://drew-m-loewe.gitbook.io/rhetorical-analysis/12.-rhetoric-and-emotion)" by scholar Drew M. Loewe
 - Discussion of essay "Under the Weather" by Ash Sanders from the book *All We Can Save: Truth, Courage, and Solutions for the Climate Crisis*
 - Discussion of the podcast "[Why Climate Emotions Matter](https://soundcloud.com/jenniferwren/episode-2-why-climate-emotions)"
@@ -130,7 +130,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 ### Feb 24
 
-- Introduction to [Project 2 - Handout](project2-1j-2026.md)
+- Introduction to [Project 2 - Handout](project2-1j-2026.html)
 - Discussion of the chapter "Prologue: Culture and Everyday Nature" and "Living In a Circle of Beating Hearts" in *OTW*
 - Discussion of the podcast ["Learning to Listen to Plants: An Interview with Monica Gagliano"](https://emergencemagazine.org/conversation/learning-to-listen-to-plants/)
 
