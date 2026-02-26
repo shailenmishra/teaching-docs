@@ -135,3 +135,20 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 {: .homework }
 > 1) Complete assigned readings for the next class; 2) Complete the post-Project 1 reflection exercise by **Mar 1**
+
+
+## Week 7
+
+### Mar 2
+
+- Discussion of 
+
+{: .homework }
+> Complete assigned readings for the next class
+
+### Mar 4
+
+- Discussion of 
+
+{: .homework }
+> Complete assigned readings for the next class
