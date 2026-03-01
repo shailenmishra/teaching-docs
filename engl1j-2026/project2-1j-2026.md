@@ -73,7 +73,7 @@ For project 1, you used the "Stories" feature of ArcGIS StoryMaps, whereas for p
 - **Storyboard**: Create a detailed storyboard for your presentation and submit by **Mar 19**. Grade points: 5%. 
 - **Rough Draft**: Submit a draft comprising at least 12 frames by **Mar 22**. Rough draft grade will be combined with the final draft.
 - **Peer Feedback**: Provide peer feedback to one of your peer's rough drafts by **Mar 25**. Grade points will be 3%.
-- **Final Draft**: Final Draft must be submitted by **Mar 29** and it should meet the project's expectations. Grade points will be 10%. 
+- **Final Draft**: Final Draft must be submitted by **Mar 29** and it should meet the project's expectations. Grade points will be 10%. Submit a separate Works Cited file to Moodle listing your references in MLA or APA format.
 
 ## Learning Outcomes
 - *Reading Skills*: What readings in the class did resonate with you the most and why? What ways were you able to engage with the readings critically? How did the readings help you as a writer, rhetor and stylist? What stylistic and rhetorical strategies did you develop through the course readings?
