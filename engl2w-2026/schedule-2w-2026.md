@@ -143,7 +143,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 - Discussion of the chapter "Writing with the Ear" by T. R. Johnson from the book *[Refiguring Prose Style: Possibilities for Writing Pedagogy](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1156&context=usupress_pubs)* 
 - Discussion of the chapter "Basic Design Principles" by Cara Miller from the book  *[Writing for Digital Media](https://pressbooks.palni.org/writingfordigitalmedia/)*
-- Discussion TBD
+- Discussion of "[National Geographic: Into the Amazon](https://www.nationalgeographic.com/into-the-amazon/)"
 
 {: .homework }
 > Complete assigned readings for the next class
@@ -152,7 +152,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 - Discussion of "Storyboard(ing): Multimodal Tool and Artifact" by Brandy Ball Blake and Karen J. Head from the book *[Multimodal Composing: Strategies for Twenty-First-Century Writing Consultations](https://www.jstor.org/stable/j.ctvg8p6gt)*
 - Discussion of the chapter "Accessibility and Inclusion" by Cara Miller from the book  *[Writing for Digital Media](https://pressbooks.palni.org/writingfordigitalmedia/)*
-- Discussion TBD
+- Discussion of "[Happy Map!](https://pudding.cool/2026/02/happy-map/)"
 
 {: .homework }
 > 1) Complete assigned readings for the next class; 2) Propose your topic idea for Project 2 by **March 6**. 
