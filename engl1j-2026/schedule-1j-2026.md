@@ -160,7 +160,7 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of potential topic ideas for Project 2
 
 {: .homework }
-> 1) Submit P2 - Topic Proposal by **Mar 6** (flexible deadline); 2) Complete the assigned reading for the next class; 3) Read “SWAT Research Guide” module in Moodle 
+> 1) Submit P2 - Topic Proposal by **Mar 6** (flexible deadline); 2) Complete the assigned reading for the next class; 3) Read “SWAT Research Guide” module in Moodle; 4) Submit P2 - Outline by **Mar 16** 
 
 ## Week 8
 
@@ -170,3 +170,25 @@ SPRING BREAK. NO CLASS.
 
 <figcaption>“The Snowdrop”, a plate from “The Temple of Flora”, the third and final part of Robert John Thornton’s <em>New Illustration of the Sexual System of Carolus von Linnaeus (1807)</em>
 </figcaption>
+
+## Week 9
+
+### Mar 17
+
+- Discussion of chapter "Speaking a Shared Language" in *OTW*
+- Discussion of the TED Talk "[Design for all 5 senses](https://www.ted.com/talks/jinsop_lee_design_for_all_5_senses?subtitle=en)" by Jinsop Lee
+- Discussion of ArcGIS frame "[Building for tomorrow: Revitalizing Toronto's waterfront with residential development in West Don Lands](https://storymaps.arcgis.com/frames/5c60a8cd07d24e50a08817be182ea298)"
+- Katrien de Waard visits class to help develop topic ideas further and supply research resources
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Revisit the “SWAT Research Guide” module in Moodle to expand upon your research
+
+### Mar 19
+
+- Discussion of chapter "A Gardener Grows" in *OTW*
+- Discussion of "Storyboard(ing): Multimodal Tool and Artifact" by Brandy Ball Blake and Karen J. Head from the book *[Multimodal Composing: Strategies for Twenty-First-Century Writing Consultations](https://www.jstor.org/stable/j.ctvg8p6gt)*
+- Discussion of ArcGIS frame "[GIS Day 2025: Celebrate with the mappiest people globally and locally](https://storymaps.arcgis.com/frames/e759dec0cb6b435d954896a3a1ea48e7)"
+- In-class work time to develop storyboard for project 2
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P2 - Storyboard by **Mar 19**
