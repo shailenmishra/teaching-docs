@@ -155,4 +155,34 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 - Discussion of "[Happy Map!](https://pudding.cool/2026/02/happy-map/)"
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Propose your topic idea for Project 2 by **March 6**. 
+> 1) Complete assigned readings for the next class; 2) Propose your topic idea for Project 2 by **March 6**; 3) Submit P2 - Outline by **Mar 16** 
+
+
+## Week 8
+
+SPRING BREAK. NO CLASS.
+
+![Foreground focuses on intricately detailed snowdrops and crocuses with crisp colors against a muted backdrop. In the distance, rolling hills descend into a quaint village beside a solitary cabin under a dramatic, cloud-filled sky with hints of sunset](https://raw.githubusercontent.com/shailenmishra/teaching/b55e0ad3f6dcbe9651ee9139ccaba7e05218cab1/assets/01-thornton-24-snowdrop-02-cropped.png)
+
+<figcaption>“The Snowdrop”, a plate from “The Temple of Flora”, the third and final part of Robert John Thornton’s <em>New Illustration of the Sexual System of Carolus von Linnaeus (1807)</em>
+</figcaption>
+
+## Week 9
+
+### Mar 16
+
+- Discussion of chapter "Writing the Genres of the Web" by Cara Miller from the book  *[Writing for Digital Media](https://pressbooks.palni.org/writingfordigitalmedia/)*
+- Discussion of sections "Affordances," "Creativity," and "Design Ethics" from the book *[Keywords in Design Thinking](https://wacclearinghouse.org/books/tpc/design/)*
+- Discussion of "[The Road was Long: A Voice from Ukraine](https://story.internal-displacement.org/the-road-was-long-a-voice-from-ukraine/index.html)"
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Start working on P2 - Storyboard
+
+### Mar 18
+
+- Discussion of chapter "Privileged Spaces" by Cara Miller from the book  *[Writing for Digital Media](https://pressbooks.palni.org/writingfordigitalmedia/)*
+- Discussion of poem "[Swan and Shadow](https://www.ronnowpoetry.com/contents/hollander/SwanandShadow.html)" by John Hollander
+- In-class work time to develop P2 - Storyboard
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Submit P2 - Storyboard by **March 19**

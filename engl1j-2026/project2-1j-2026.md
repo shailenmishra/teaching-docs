@@ -70,7 +70,7 @@ For project 1, you used the "Stories" feature of ArcGIS StoryMaps, whereas for p
 - **Postwalk reflection**:  Submit a reflection statement after the guided tour about how your idea of rhetoric has evolved/expanded/changed, and with the reflection include what on-campus ecological issue you want to focus on for your presentation. The reflection should be 3 pages long. You’re encouraged to include images you took or recordings you did during your walk. Grade points: 3%. Due date: **Mar 4**. 
 - **Topic proposal**: Propose the local ecological issue you plan to write about for project 2 by **Mar 6**. Follow the prompt on Moodle. Grade points will be 2%.  
 - **Outline**: Submit an outline of your presentation and the preliminary research you have done by **Mar 16**.  Grade points will be 2%.
-- **Storyboard**: Create a detailed storyboard for your presentation and submit by **Mar 19**. Grade points: 5%. 
+- **Storyboard**: Create a detailed storyboard for your project and submit by **Mar 19**. Ensure to [use the template](https://docs.google.com/document/d/1OhP6Cc3bR_nXdFXyD0vJWS7-eL-SIm-Jy005KNmjR3w/edit?usp=sharing). Grade points: 5%. 
 - **Rough Draft**: Submit a draft comprising at least 12 frames by **Mar 22**. Rough draft grade will be combined with the final draft.
 - **Peer Feedback**: Provide peer feedback to one of your peer's rough drafts by **Mar 25**. Grade points will be 3%.
 - **Final Draft**: Final Draft must be submitted by **Mar 29** and it should meet the project's expectations. Grade points will be 10%. Submit a separate Works Cited file to Moodle listing your references in MLA or APA format.
