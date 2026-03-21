@@ -203,6 +203,7 @@ SPRING BREAK. NO CLASS.
 
 - Discussion of "[Thinking Across Modes and Media (and Baking Cake): Two Techniques for Writing with Video, Audio, and Images](https://parlormultimedia.com/writingspaces/thinking-across-modes-and-media-and-baking-cake-two-techniques-for-writing-with-video-audio-and-images/)"
 - Discussion of "[Green Oranges & Land](https://storymaps.arcgis.com/collections/68ba1955f063424884fc7c77dea8480e?item=5)" 
+- Discussion of [P2 evaluation criteria](https://docs.google.com/document/d/1laC7_wTuoOopmwwQrEjXhJbvnr7LdiFvtObOjQjB8pM/edit?usp=sharing)
 - In-class work time for P2 - Final Draft; get any questions answered and obtain any feedback from peers/instructor
 
 {: .homework }
