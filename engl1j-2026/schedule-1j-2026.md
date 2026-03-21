@@ -191,4 +191,23 @@ SPRING BREAK. NO CLASS.
 - In-class work time to develop storyboard for project 2
 
 {: .homework }
-> 1) Complete the assigned readings for the next class; 2) Submit P2 - Storyboard by **Mar 19**
+> 1) Complete the assigned readings for the next class; 2) Submit P2 - Storyboard by **Mar 19**; 3) Submit P2 - Rough Draft by **Mar 22**
+
+
+## Week 10
+
+### Mar 24
+
+- Discussion of "[The Cost of Casting Animals as Heroes and Villains in Conservation Science](https://theconversation.com/the-cost-of-casting-animals-as-heroes-and-villains-in-conservation-science-263883)" by Adam Meyer and Kristy Ferraro
+- In-class time to receive feedback on P2 - Rough Draft and get any questions answered 
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P2 - Peer Feedback by **Mar 25**
+
+### Mar 26
+
+- Discussion of "[Corn Tastes Better on the Honor System](https://emergencemagazine.org/feature/corn-tastes-better/)" by Robin Wall Kimmerer
+- In-class time to receive feedback on P2 - Rough Draft and get any questions answered
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P2 - Final Draft by **Mar 29**
