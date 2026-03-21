@@ -185,4 +185,25 @@ SPRING BREAK. NO CLASS.
 - In-class work time to develop P2 - Storyboard
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Submit P2 - Storyboard by **March 19**
+> 1) Complete assigned readings for the next class; 2) Submit P2 - Storyboard by **March 19**; 3) Submit P2 - Rough Draft by **March 22**
+
+
+## Week 10
+
+### Mar 23
+
+- Discussion of “[‘The last thing our community needs’: LNG in Chester, PA](https://storymaps.arcgis.com/stories/a72d37bbce71473195da5d2d86a102d2)” 
+- Discussion of "Chapter 1" & "Chapter 2" of [*17776*](https://www.sbnation.com/a/17776-football)
+- Read either "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" **OR** a) "[How to Make YouTube Videos on Your Phone](https://www.youtube.com/watch?v=am7kaAerVCQ)", b) "[How to Edit YouTube Videos in 2026](https://www.youtube.com/watch?v=YKyczxU3n3M)", c) "[Create your own captions using YouTube's caption editor](https://www.k-state.edu/mediasite/help/create-captions-youtube.html)" depending on the genre of your project 2
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Work on peer feedback and revise project 2 rough draft 
+
+### Mar 25
+
+- Discussion of "[Thinking Across Modes and Media (and Baking Cake): Two Techniques for Writing with Video, Audio, and Images](https://parlormultimedia.com/writingspaces/thinking-across-modes-and-media-and-baking-cake-two-techniques-for-writing-with-video-audio-and-images/)"
+- Discussion of "[Green Oranges & Land](https://storymaps.arcgis.com/collections/68ba1955f063424884fc7c77dea8480e?item=5)" 
+- In-class work time for P2 - Final Draft; get any questions answered and obtain any feedback from peers/instructor
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Submit P2 - Peer Feedback by **March 25**; 3) Submit P2 - Final Draft by **March 29**
