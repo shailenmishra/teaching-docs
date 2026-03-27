@@ -208,3 +208,23 @@ SPRING BREAK. NO CLASS.
 
 {: .homework }
 > 1) Complete assigned readings for the next class; 2) Submit P2 - Peer Feedback by **March 25**; 3) Submit P2 - Final Draft by **March 29**
+
+
+## Week 11
+
+### Mar 30
+
+- Discussion of the chapter "Cohesion, Coherence, and Emphasis" in *TWS*
+- Discussion of the article “Thank You, Black Twitter” by Marc Lamont Hill (only read the first seven pages, up to the end of section "New Surveillances")
+
+{: .homework }
+> Complete assigned readings for the next class 
+
+### Apr 1
+
+- Introduction of Project 3 - Handout
+- Discussion of chapter 2 & 3 of bell hooks' book *talking back: thinking feminist, thinking black*
+- Discussion of the chapter "[Style in Academic Writing](https://wacclearinghouse.org/docs/books/centrality/chapter10.pdf)" by Nora Bacon (only read the first nine pages, up to the end of section "Variations in Academic Writing")
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Complete the post-Project 2 reflection exercise by **Apr 5**
