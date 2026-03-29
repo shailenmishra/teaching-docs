@@ -212,3 +212,14 @@ SPRING BREAK. NO CLASS.
 {: .homework }
 > 1) Complete the assigned readings for the next class; 2) Submit P2 - Final Draft by **Mar 29**
 
+
+## Week 11
+
+### Mar 31
+
+- Discussion of chapter "Introduction: Bodies, Embodiment, and Embodied Rhetorics" by A. Abby Knoblauch and Marie E. Moeller from the book *[Bodies of Knowledge: Embodied Rhetorics in Theory and Practice](https://www.jstor.org/stable/j.ctv2nv8c0c)*
+- Discussion of the video “[Striptease to save the trees](https://vimeo.com/3448925)”
+- Discussion of the article "[Naked protests in South Africa: a psychologist explores the emotional power of this form of activism](https://theconversation.com/naked-protests-in-south-africa-a-psychologist-explores-the-emotional-power-of-this-form-of-activism-238530)"
+
+{: .homework }
+> Complete the assigned readings for the next class 
