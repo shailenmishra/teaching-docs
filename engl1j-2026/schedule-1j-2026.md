@@ -223,3 +223,13 @@ SPRING BREAK. NO CLASS.
 
 {: .homework }
 > Complete the assigned readings for the next class 
+
+### Apr 2
+
+- Introduction to Project 3 - Handout
+- Discussion of the article "Unruly Arguments: The Body Rhetoric of Earth
+First!, Act Up, and Queer Nation" by Kevin Michael DeLuca
+- Discussion of the essay "[My Name Is Beauty](https://emergencemagazine.org/essay/my-name-is-beauty/)" by Jake Skeets
+
+{: .homework }
+> Complete the assigned readings for the next class; 
