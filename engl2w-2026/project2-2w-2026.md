@@ -33,7 +33,7 @@ Grade points: 25%
 - You're expected to do extensive research for your project. Along with your final draft, submit a separate Works Cited file to Moodle listing your references in MLA or APA format. The minimum number of sources you should plan to refer to and include are **eight**.
 - You're also expected to complete a reflection assignment after submitting the final draft. The purpose of this reflection exercise is to continue thinking about your style and how in Project 2 you built upon what you developed and experimented with in Project 1.
 
-## How to Get Started with the Project
+## How to Get Started with the Project?
 - Start with a topic idea that you're passionate about. Questions to ask are: why do you want to write about this topic? What's unique and important about it? Who is the audience for it? What kind of specific and urgent argument can you provide on your topic? Check the "Topic Proposal" and "Outline" expectations below.
 - Once you've an inkling of a topic idea, brainstorm the digital genre that might be suitable in building that argument and delivering it in an impactful way. Our class discussion and the Google Doc mentioned above will lead you to several options. 
 - Discuss with me (your instructor) to figure out the length, delivery mode, and technical aspects of your project. This discussion will also entail identifying and developing the multimodal nature of your text, how to bolster it, and how to make it purposeful.
