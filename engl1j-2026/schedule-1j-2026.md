@@ -227,9 +227,89 @@ SPRING BREAK. NO CLASS.
 ### Apr 2
 
 - Introduction to Project 3 - Handout
-- Discussion of the article "Unruly Arguments: The Body Rhetoric of Earth
-First!, Act Up, and Queer Nation" by Kevin Michael DeLuca
+- Discussion of the article "Unruly Arguments: The Body Rhetoric of Earth First!, Act Up, and Queer Nation" by Kevin Michael DeLuca
 - Discussion of the essay "[My Name Is Beauty](https://emergencemagazine.org/essay/my-name-is-beauty/)" by Jake Skeets
 
 {: .homework }
-> Complete the assigned readings for the next class; 
+> Complete the assigned readings for the next class 
+
+## Week 12
+
+### Apr 7
+
+- Ceramic workshop with Isabel Llosa
+- Discussion of the essay "Re-imagining education by thinking with craft as a spatiotemporal, embodied and material practice." by Mixue Li & Susan Jones (read the first 11 pages of the essay)
+- Discussion of the book chapter "Crafting New Approaches to Composition" by Kristin Prins from the book [Composing Media Composing Embodiment](https://www.jstor.org/stable/j.ctt4cgnxt)
+- Discussion of the podcast "[Pedagogue: Episode 48: Kristi Prins and Jason Luther](https://www.pedagoguepodcast.com/blog/episode-48-kristi-prins-and-jason-luther)" 
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P3 - Topic Idea by **Apr 8** 
+
+### Apr 9
+
+- Discussion of "Introduction: (Re)Mapping Rhetoric’s Sensory Past, Present, and Future" by Steph Ceraso & Jonathan W. Stone from the book *[Sensory Rhetorics: Sensation, Persuasion, and the Politics of Feeling](https://www.psupress.org/books/titles/978-0-271-10123-1.html)* (read the first 16 pages of the essay)
+- Discussion of "[The Big Rhetorical Podcast: Episode 191: Interview with Dr. Lisa L. Phillips](https://creators.spotify.com/pod/profile/the-big-rhetorical/episodes/191-Dr--Lisa-L--Phillips-e3gj140)"
+- Discussion of Project 3 topic ideas
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P3 - Preliminary Research by **Apr 12** 
+
+## Week 13
+
+### Apr 14
+
+- Discussion of the chapter “Walking with Relatives: Indigenous Bodies of Protest” from the book by Joyce Rain Anderson *[Unruly Rhetorics: Protest, Persuasion, and Publics](https://www.jstor.org/stable/j.ctv75d8pr?turn_away=true)*
+- Discussion of the essay "[Body Linguistics: The Effect of Language on Dancers' Self-Perception](https://sites.google.com/swarthmore.edu/language-on-dance?usp=sharing)" by Ellen Stewart
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P3 - Outline by **Apr 15** 
+
+### Apr 16
+
+- Discussion of the chapter “A Groove We Can Move To” from the book by Jonathan Sterne *[Unruly Rhetorics: Protest, Persuasion, and Publics](https://www.jstor.org/stable/j.ctv75d8pr?turn_away=true)*
+- Discussion of the essay "[Embodiment in Classical Music Performance](https://sites.google.com/swarthmore.edu/justine-sullivan-engl001j?usp=sharing)" by Justine Sullivan
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P3 - Rough Draft by **Apr 19** 
+
+
+## Week 14
+
+### Apr 21
+
+- Discussion of the essay “[My Name is /KLA-ris/: The Bordered Name of an American Latina](https://constell8cr.com/articles/my-name-is-kla-ris-the-bordered-name-of-an-american-latina/)” by Clarice A. Blanco
+- Discussion of the essay "[Mindfulness versus UTR: The Surprising Consequences of Tennis's New Rating System](https://sites.google.com/swarthmore.edu/mindfulnessversusutr/home?pli=1&authuser=0)" by Ella Strickler
+
+{: .homework }
+> 1) Complete the assigned readings for the next class; 2) Submit P3 - Peer Feedback by **Apr 22** 
+
+### Apr 23
+
+NO CLASS (Please note that class is canceled in lieu of the out-of-class participation expected of you for [CRCQL’s](https://chesterpaej.org/about/) environmental justice march on May 2)
+
+{: .homework }
+> Complete the assigned readings for the next class
+
+## Week 15
+
+### Apr 28
+
+- Discussion of the essay "[Writing as Embodied, College Football Plays as Embodied: Extracurricular Multimodal Composing](https://www.compositionforum.com/issue/29/writing-as-embodied.php)"
+- Introduction to the Final Reflection Assignment handout
+
+{: .homework }
+> Work on P3 - Final Draft
+
+### Apr 30
+
+- Getting any questions answered for P3 - Final Draft and Final Reflection Assignment
+- In-class work time
+- Complete course evaluation
+
+{: .homework }
+> 1) Attend the CRCQL's annual environmental justice march on **May 1**; 2) Complete the post-march reflection exercise (this due date also applies those who are not able to attend the march and completing other make-up activities) by **May 5**
+
+## Final submissions 
+{: .homework }
+> 1) Submit the P3 - Final Draft by **May 8**
+> 2) Submit the Final Reflection Assignment by **May 10**

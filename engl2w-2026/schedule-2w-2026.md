@@ -228,3 +228,21 @@ SPRING BREAK. NO CLASS.
 
 {: .homework }
 > 1) Complete assigned readings for the next class; 2) Complete the post-Project 2 reflection exercise by **Apr 5**
+
+## Week 12
+
+### Apr 6
+
+- Discussion of the essay "Unruly Arguments: The Body Rhetoric of Earth First!, Act Up, and Queer Nation" by Kevin Michael DeLuca
+- Discussion of book chapter "Style and the Professional Writing Curriculum: Teaching Stylistic Fluency through Science Writing" by Jonathan Buehl from the book *[The Centrality of Style](https://wacclearinghouse.org/books/perspectives/centrality/)* 
+
+{: .homework }
+> Complete assigned readings for the next class
+
+### Apr 8
+
+- Discussion of excerpts from the book *Stylish Academic Writing* by Helen Sword
+- Discussion of P3 topic ideas
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Submit P3 - Topic Ideas by **Apr 8**; 3) Read the Research Module in Moodle 
