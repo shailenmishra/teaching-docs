@@ -310,6 +310,7 @@ NO CLASS (Please note that class is canceled in lieu of the out-of-class partici
 > 1) Attend the CRCQL's annual environmental justice march on **May 1**; 2) Complete the post-march reflection exercise (this due date also applies those who are not able to attend the march and completing other make-up activities) by **May 5**
 
 ## Final submissions 
+
 {: .homework }
 > 1) Submit the P3 - Final Draft by **May 8**
 > 2) Submit the Final Reflection Assignment by **May 10**
