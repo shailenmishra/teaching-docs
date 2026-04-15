@@ -273,7 +273,7 @@ SPRING BREAK. NO CLASS.
 - Discussion of the book chapter "Metaphorical Translingualisms: The Hip-Hop Cipher as Stylistic Concept" by Eric A. House from the book *Style and the Future of Composition Studies*
 
 {: .homework }
-> 1) Complete assigned readings for the next class 2) Submit P3 - Peer Feedback by **Apr 22**
+> Complete assigned readings for the next class 
 
 ### Apr 22
 
