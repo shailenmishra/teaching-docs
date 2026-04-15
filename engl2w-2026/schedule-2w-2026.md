@@ -245,4 +245,64 @@ SPRING BREAK. NO CLASS.
 - Discussion of P3 topic ideas
 
 {: .homework }
-> 1) Complete assigned readings for the next class; 2) Submit P3 - Topic Ideas by **Apr 8**; 3) Read the Research Module in Moodle 
+> 1) Complete assigned readings for the next class; 2) Submit P3 - Topic Ideas by **Apr 8**; 3) Read the Research Module in Moodle; 4) Submit P3 - Preliminary Research by **Apr 12** 
+
+## Week 13
+
+### Apr 13
+
+- Discussion of the chapter "Correctness, Clarity, Concision, and Sentence Combining" in *TWS*
+- Discussion of the article "Highly Dominating, Highly Authoritarian Personalities" by Bob Altemeyer. (read only the first 10 pages)
+
+{: .homework }
+> Complete assigned readings for the next class
+
+### Apr 15
+
+- Discussion of the book chapter "[Writing Dangerously](https://drive.google.com/file/d/1ziLvGjBD8z4WY9CLFuid6ER0p03IrEXy/view)" by Tony Scott from the book *Dangerous Writing: Understanding the Political Economy of Composition*
+- Discussion of the book chapter "Stance as Style: Toward a Framework for Analyzing Academic Language" from the book *Style and the Future of Composition Studies*
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Submit P3 - Outline by **Apr 15**; 3) Submit P3 - Rough Draft by **Apr 19**
+
+## Week 14
+
+### Apr 20
+
+- Discussion of the essay “[Should Writers Use They Own English?](https://www.colby.edu/wp-content/uploads/2024/10/Young_2014.pdf)” by Vershawn Ashanti Young
+- Discussion of the book chapter "Metaphorical Translingualisms: The Hip-Hop Cipher as Stylistic Concept" by Eric A. House from the book *Style and the Future of Composition Studies*
+
+{: .homework }
+> 1) Complete assigned readings for the next class 2) Submit P3 - Peer Feedback by **Apr 22**
+
+### Apr 22
+
+- In-class peer feedback workshop
+- Discussion of rough drafts
+
+{: .homework }
+> 1) Complete assigned readings for the next class; 2) Submit P3 - Peer Feedback by **Apr 22**
+
+## Week 15
+
+### Apr 27
+
+- Discussion of the book chapter "Looking Forward to a Nice, Stupid, Future Style. R U?" by Jimmy Butts from the book *Style and the Future of Composition Studies*
+- Discussion of the thesis "[A Mock Rhetoric: The Use of Satire in First-Year Composition](https://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=1044&context=theses)" by Michael James Sobiech (read only the "Introduction" chapter; pages 6-9)
+- Introduction to the Final Reflection Assignment - Handout
+
+{: .homework }
+> Work on P3 - Final Draft
+
+### Apr 29
+
+- Getting any questions answered for P3 - Final Draft and Final Reflection Assignment
+- In-class work time
+- Complete course evaluation
+
+## Final submissions 
+
+{: .homework }
+> 1) Submit the P3 - Final Draft by **May 6**
+> 2) Submit a 2-minute audio recording of you reading a part of your P3 final draft by **May 6**
+> 3) Submit the Final Reflection Assignment by **May 10**
